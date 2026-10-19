@@ -58,3 +58,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+## Star atlas and traditional Chinese asterisms
+
+- `src/content/sky-catalog.json` and `sky-preview.json` are compact subsets/conversions of D3-Celestial data (`data/stars.6.json`, `data/constellations.cn.json`, `data/constellations.lines.cn.json`): https://github.com/ofrohn/d3-celestial , revision `7e720a3de062059d4c5400a379146a601d9010e0`, retrieved 2026-10-15. D3-Celestial is distributed under BSD 3-Clause (Olaf Frohn). Original stellar data: XHIP, Anderson & Francis (2012), VizieR V/137D; traditional Chinese asterism arrangements: Stellarium skycultures. Original names and coordinates are preserved; GeoJSON wrappers and unused properties are removed. No D3 or Stellarium program code is bundled.
+- The website independently implements precession, local sidereal time, the horizon transformation and an azimuthal equidistant projection. The 1900–2100 chart is a naked-eye orientation guide; no proper motion, refraction, extinction, terrain or daylight brightness is modeled. Classical quotations are public-domain text; modern explanatory notes are independently written.
+- Classical reading sources: 《周易·系辞上》, 《论语·为政》, 《史记·天官书》, 《诗经·小雅·大东》《召南·小星》《豳风·七月》, 《古诗十九首·迢迢牵牛星》, and 杜甫《赠卫八处士》. The folk association of the Cowherd star with 河鼓二 is distinguished from 牛宿. The chart depicts the chosen modern date, not a reconstruction of the ancient sky.
+
+### BSD 3-Clause notice for D3-Celestial
+
+Copyright (c) 2015, Olaf Frohn
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+3:I[71634,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-8f2ef0341e73df30.js"],"Providers"]
+4:I[34911,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65006","static/chunks/b3c09d82-f74129cf95c77dd7.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","42209","static/chunks/42209-8dbe95fb4d26be4d.js","61693","static/chunks/61693-7de368338bcb53d0.js","48401","static/chunks/48401-ebaac4a7d569bdaa.js","58974","static/chunks/app/page-c187745b2897f7c5.js"],"Column"]
+5:I[79826,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-8f2ef0341e73df30.js"],"SiteAtmosphere"]
+6:I[15171,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-8f2ef0341e73df30.js"],"Header"]
+9:I[6296,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-8f2ef0341e73df30.js"],"RouteGuard"]
+a:I[99630,[],""]
+b:I[1380,[],""]
+c:I[41407,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65006","static/chunks/b3c09d82-f74129cf95c77dd7.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","42209","static/chunks/42209-8dbe95fb4d26be4d.js","61693","static/chunks/61693-7de368338bcb53d0.js","48401","static/chunks/48401-ebaac4a7d569bdaa.js","58974","static/chunks/app/page-c187745b2897f7c5.js"],"Row"]
+d:I[65587,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65006","static/chunks/b3c09d82-f74129cf95c77dd7.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","42209","static/chunks/42209-8dbe95fb4d26be4d.js","61693","static/chunks/61693-7de368338bcb53d0.js","48401","static/chunks/48401-ebaac4a7d569bdaa.js","58974","static/chunks/app/page-c187745b2897f7c5.js"],""]
+:HL["/_next/static/css/3441da7062753b32.css","style"]
+:HL["/_next/static/css/a6cf80c5ef545737.css","style"]
+:HL["/_next/static/css/c285a4a975a0ebcb.css","style"]
+:HL["/_next/static/css/b8fe01dfc25642de.css","style"]
+:HL["/_next/static/css/f5207e868f667052.css","style"]
+:HL["/_next/static/css/8358176523059d1d.css","style"]
+2:T7e5,
+              (function() {
+                try {
+                  const root = document.documentElement;
+                  const defaultTheme = 'light';
+                  
+                  // Set defaults from config
+                  const config = {"brand":"moss","accent":"red","neutral":"gray","solid":"contrast","solid-style":"flat","border":"playful","surface":"translucent","transition":"all","scaling":"100","viz-style":"gradient"};
+                  
+                  // Apply default values
+                  Object.entries(config).forEach(([key, value]) => {
+                    root.setAttribute('data-' + key, value);
+                  });
+                  
+                  // Resolve theme
+                  const resolveTheme = (themeValue) => {
+                    if (!themeValue || themeValue === 'system') {
+                      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+                    }
+                    return themeValue;
+                  };
+                  
+                  // Apply saved theme
+                  const savedTheme = localStorage.getItem('data-theme') || defaultTheme;
+                  if (!localStorage.getItem('data-theme')) localStorage.setItem('data-theme', savedTheme);
+                  const resolvedTheme = resolveTheme(savedTheme);
+                  root.setAttribute('data-theme', resolvedTheme);
+                  
+                  // Apply any saved style overrides
+                  const styleKeys = Object.keys(config);
+                  styleKeys.forEach(key => {
+                    const value = localStorage.getItem('data-' + key);
+                    if (value) {
+                      root.setAttribute('data-' + key, value);
+                    }
+                  });
+                } catch (e) {
+                  console.error('Failed to initialize theme:', e);
+                  document.documentElement.setAttribute('data-theme', 'dark');
+                }
+              })();
+            0:{"buildId":"Eeq2C1WsUI3FvOt9dMJfx","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3441da7062753b32.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/a6cf80c5ef545737.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/c285a4a975a0ebcb.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/b8fe01dfc25642de.css","precedence":"next"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/f5207e868f667052.css","precedence":"next"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/css/8358176523059d1d.css","precedence":"next"}]],["$","html",null,{"className":"display-flex position-relative min-width-0 fill-width __variable_8eaea4 __variable_8eaea4 __variable_8eaea4 __variable_8c25df __variable_86297e ","style":{},"suppressHydrationWarning":true,"lang":"zh-CN","data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","meta",null,{"name":"homepage-content-revision","content":"60b611a1a0fb88c0f03065ce8bfa99598970e760247958f124e465b822aa8e2a"}],["$","script",null,{"id":"theme-init","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","$L3",null,{"children":["$","$L4",null,{"as":"body","background":"page","fillWidth":true,"style":{"minHeight":"100vh"},"margin":"0","padding":"0","horizontal":"center","children":[["$","$L5",null,{}],["$","$L6",null,{"name":"concorde's space","tagline":""}],["$","main",null,{"className":"display-flex position-relative flex-1 justify-center min-width-0 fill-width personal-main ","style":{},"children":"$L7"}],"$L8"]}]}]]}]]}],"loading":null,"isPartial":false}
+7:["$","div",null,{"className":"display-flex position-relative justify-center min-width-0 fill-width ","style":{"minHeight":"var(--static-space-0)"},"children":["$","$L9",null,{"children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[["$","$L4",null,{"as":"section","fill":true,"center":true,"paddingBottom":"160","children":[["$","span",null,{"className":"font-display font-strong font-xl mb-s","style":{},"children":"404"}],["$","h1",null,{"className":"font-display font-default font-xs neutral-on-background-strong mb-l","style":{"textWrap":"balance"},"children":"Page Not Found"}],["$","span",null,{"className":"neutral-on-background-weak","style":{},"children":"The page you are looking for does not exist."}]]}],[]]}]}]}]
+8:["$","$L4",null,{"as":"footer","className":"personal-footer","fillWidth":true,"horizontal":"center","children":["$","$Lc",null,{"fillWidth":true,"horizontal":"between","gap":"16","vertical":"center","s":{"direction":"column"},"className":"personal-footer-inner","children":[["$","span",null,{"className":"","style":{},"children":["© ",2026," · ","concorde's space"]}],["$","span",null,{"className":"","style":{},"children":["$","$Ld",null,{"href":"/credits","children":"项目说明"}]}],false]}]}]
