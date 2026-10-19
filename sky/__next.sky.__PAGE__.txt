@@ -2,5 +2,5 @@
 2:I[44343,["65587","static/chunks/65587-9b70b5477e36b1ec.js","48401","static/chunks/48401-ebaac4a7d569bdaa.js","80772","static/chunks/app/sky/page-185952d1819bd720.js"],"StarMapExplorer"]
 3:I[30887,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"Eeq2C1WsUI3FvOt9dMJfx","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"iaVJmSewT0QLHCoUZYilr","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

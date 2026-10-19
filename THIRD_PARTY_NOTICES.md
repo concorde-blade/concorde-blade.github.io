@@ -15,6 +15,11 @@ Changes include a chronological journal, photography typography and layout, proj
 - Articles and photographs later supplied by a site owner retain their respective authors' rights; the template does not relicense them.
 - Personal website icon: “An astronaut standing on top of a red planet” by summertime flag, https://unsplash.com/illustrations/an-astronaut-standing-on-top-of-a-red-planet--cYcR3F_J7M . The source page identifies the illustration as Unsplash+ content. The site owner supplied the screenshot used here; it was cropped and resized with its existing watermarks retained. This third-party image is not relicensed under the project's code license.
 
+## Name origin illustrations
+
+- `public/images/about/ants-from-up-there.webp`: cover artwork of Black Country, New Road's *Ants From Up There* (2022), sourced from the official Ninja Tune release page, https://ninjatune.net/release/black-country-new-road/ants-from-up-there and https://ninjatune.net/images/releases/ants-from-up-there-main.jpg . Shown to identify and discuss the album; artwork rights remain with the respective rights holders and are not covered by this project's code license. Resized to 640 × 640 and encoded as WebP without cropping.
+- `public/images/about/concorde-g-boac.webp`: British Airways Concorde G-BOAC, May 1986, photograph by Eduard Marmet, Wikimedia Commons file https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg . Used under CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ . The downloaded Commons revision includes Stevo1000's 2018 background retouch. This site encodes that 1024 × 679 image as WebP without cropping; the image remains under CC BY-SA 3.0. Source and license links are displayed alongside the photograph.
+
 ## MIT notices for referenced code and Once UI
 
 Copyright (c) 2020-2021 Anthony Fu
