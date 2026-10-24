@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[44343,["65587","static/chunks/65587-9b70b5477e36b1ec.js","48401","static/chunks/48401-ebaac4a7d569bdaa.js","80772","static/chunks/app/sky/page-fe96138c6a17ef0e.js"],"StarMapExplorer"]
+2:I[44343,["65587","static/chunks/65587-9b70b5477e36b1ec.js","48401","static/chunks/48401-478e5e18f58912f1.js","80772","static/chunks/app/sky/page-1e6c74e1c785c11e.js"],"StarMapExplorer"]
 3:I[30887,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/_next/static/css/e43f27bf521ea0a8.css","style"]
-0:{"buildId":"5AmPAaKPvSIMSP7v4NYCs","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e43f27bf521ea0a8.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+:HL["/_next/static/css/6ff3c683fda9f55a.css","style"]
+0:{"buildId":"JNH9-6V65W-6X2NdU9ixS","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ff3c683fda9f55a.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
