@@ -1,12 +1,12 @@
 1:"$Sreact.fragment"
-2:I[34911,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],"Column"]
-3:I[65587,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],""]
-4:I[41407,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],"Row"]
-e4:I[44279,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],"JournalRow"]
+2:I[34911,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],"Column"]
+3:I[65587,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],""]
+4:I[41407,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],"Row"]
+e4:I[44279,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],"JournalRow"]
 e6:I[30887,[],"OutletBoundary"]
 e7:"$Sreact.suspense"
 :HL["/_next/static/css/75fc7e897e52fce5.css","style"]
-0:{"buildId":"TWJ1UX5o_xkq_C7A5AgP-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"as":"article","className":"Personal_articlePage__tDJib","children":[["$","$L3",null,{"href":"/blog","className":"Personal_softLink__cVRqF","children":"← 所有文章"}],["$","h1",null,{"className":"font-m font-strong neutral-on-background-strong Personal_articleTitle__0nkJI","style":{"textWrap":"balance"},"children":"第 7 章：Transformer"}],["$","p",null,{"className":"Personal_articleSummary__ibqQV","style":{},"children":"编码器、解码器、交叉注意力与序列训练技巧"}],["$","$L4",null,{"className":"Personal_articleMetadata__kl_Bp","children":[["$","time",null,{"className":"","style":{},"dateTime":"2026-11-16","children":"2026.11.16"}],["$","span",null,{"className":"","style":{},"children":"技术"}],["$","span",null,{"className":"","style":{},"children":[30," min read"]}]]}],"",["$","$L2",null,{"className":"Personal_articleBody__qIflV","children":["$","$L2",null,{"className":"Markdown_body__RvQuC","children":[["$","p","p-0",{"children":[["$","a","a-0",{"href":"/blog/deep-learning-notes/","rel":"noreferrer","children":"系列目录"}]," · ",["$","a","a-1",{"href":"/blog/deep-learning-06-self-attention/","rel":"noreferrer","children":"上一章"}]]}],"\n",["$","hr","hr-0",{}],"\n",["$","p","p-1",{"children":"Transformer 是一个基于自注意力的序列到序列的模型，能够进行并行计算。（这是RNN的序列到序列无法做到的）\n下面从两方面介绍Transformer，"}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"Transformer 的结构，即编码器，解码器，编码器-解码器注意力，"}],"\n",["$","li","li-1",{"children":"Transformer 的训练过程以及序列到序列模型的训练技巧"}],"\n"]}],"\n",["$","h2","h2-0",{"id":"71-序列到序列模型","children":"7.1 序列到序列模型"}],"\n",["$","h3","h3-0",{"id":"711-语音识别机器翻译与语音翻译","children":"7.1.1 语音识别、机器翻译与语音翻译"}],"\n",["$","ul","ul-1",{"children":["\n",["$","li","li-0",{"children":"语音识别：输入是声音信号，输出是语音识别的结果，即输入的这段声音信号所对应的文字。由机器自己决定输出的长度。"}],"\n",["$","li","li-1",{"children":"机器翻译：机器输入一个语言的句子，输出另外一个语言的句子。"}],"\n",["$","li","li-2",{"children":"语音翻译：对机器说一句话，机器直接把听到的英语的声音信号翻译成中文。（主要用于没有文字的语言，如闽南语）"}],"\n"]}],"\n",["$","h3","h3-1",{"id":"712-语音合成","children":"7.1.2 语音合成"}],"\n",["$","p","p-2",{"children":"输入文字、输出声音信号就是语音合成（Text-To-Speech，TTS）。"}],"\n",["$","h3","h3-2",{"id":"713-聊天机器人","children":"7.1.3 聊天机器人"}],"\n",["$","p","p-3",{"children":"文本也很广泛的使用了序列到序列模型。\n聊天机器人就是我们对它说一句话，它要给出一个回应。"}],"\n",["$","h3","h3-3",{"id":"714-问答任务","children":"7.1.4 问答任务"}],"\n",["$","p","p-4",{"children":"序列到序列模型在自然语言处理的领域的应用很广泛，而很多自然语言处理的任务都可以当作是问答（Question Answering, QA）的任务。\n就是给机器读一段文字，问机器一个问题，让机器给出一个正确答案。"}],"\n",["$","h3","h3-4",{"id":"715-句法分析","children":"7.1.5 句法分析"}],"\n",["$","p","p-5",{"children":"给机器一段文字，机器要产生一个句法的分析树，即句法树（syntactic tree）。\n在句法分析的任务中，输入是一段文字，输出是一个树状的结构，而一个树状的结构可以看成一个序列，该序列代表了这个树的结构。"}],"\n",["$","h3","h3-5",{"id":"716-多标签分类","children":"7.1.6 多标签分类"}],"\n",["$","p","p-6",{"children":"多分类问题（multi-class classification）是指分类的类别数大于 2。而多标签分类是指同一个东西可以属于多个类。"}],"\n",["$","h2","h2-1",{"id":"72-tranformer-结构","children":"7.2 Tranformer 结构"}],"\n",["$","p","p-7",{"children":"一般的序列到序列模型会分成编码器和解码器。编码器负责处理输入的序列，再把处理好的结果“丢”给解码器，由解码器决定要输出的序列。"}],"\n",["$","h2","h2-2",{"id":"73-tranformer-编码器","children":"7.3 Tranformer 编码器"}],"\n",["$","p","p-8",{"children":"编码器输入一排向量，输出另外一排向量。\nTransformer 的编码器使用的是自注意力，输入一排向量，输出另外一个同样长度的向量。\n编码器里面会分成很多的块（block），每一个块都是输入一排向量，输出一排向量给下一个块。\n每个块的结构如下。输入一排向量后做自注意力，考虑整个序列的信息，输出另外一排向量。接下来这排向量会“丢”到全连接网络网络里面，输出另外一排向量。"}],"\n",["$","p","p-9",{"children":["$","img","img-0",{"className":"Markdown_image__giltp","src":"/images/notes/deep-learning/transformer-encoder.png","alt":"截屏2026-11-16 17.31.37.png","loading":"lazy"}]}],"\n",["$","p","p-10",{"children":["Transformer 里面加入了",["$","strong","strong-0",{"children":"残差连接(residual connection)"}]," 的设计。"]}],"\n",["$","p","p-11",{"children":["Step1: ",["$","strong","strong-0",{"children":"残差连接"}]," 向量 ",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":["$","mi","mi-0",{"children":"b"}]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"b"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.6944em"}}],"$L5"]}]}]]}]," 输入到自注意力层后得到向量 ","$L6","，","$L7"," 得到新的输出（这一步就是残差连接，融合了原始的信息和新的信息）"]}],"\n","$L8","\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b"]}]}],false,"$L6c"]}],["$L6d"],"$L6e"]}],"loading":null,"isPartial":false}
+0:{"buildId":"vEt9NG54OUd1BlqeJKLKY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"as":"article","className":"Personal_articlePage__tDJib","children":[["$","$L3",null,{"href":"/blog","className":"Personal_softLink__cVRqF","children":"← 所有文章"}],["$","h1",null,{"className":"font-m font-strong neutral-on-background-strong Personal_articleTitle__0nkJI","style":{"textWrap":"balance"},"children":"第 7 章：Transformer"}],["$","p",null,{"className":"Personal_articleSummary__ibqQV","style":{},"children":"编码器、解码器、交叉注意力与序列训练技巧"}],["$","$L4",null,{"className":"Personal_articleMetadata__kl_Bp","children":[["$","time",null,{"className":"","style":{},"dateTime":"2026-11-16","children":"2026.11.16"}],["$","span",null,{"className":"","style":{},"children":"技术"}],["$","span",null,{"className":"","style":{},"children":"30 min read"}]]}],"",["$","$L2",null,{"className":"Personal_articleBody__qIflV","children":["$","$L2",null,{"className":"Markdown_body__RvQuC","children":[["$","p","p-0",{"children":[["$","a","a-0",{"href":"/blog/deep-learning-notes/","rel":"noreferrer","children":"系列目录"}]," · ",["$","a","a-1",{"href":"/blog/deep-learning-06-self-attention/","rel":"noreferrer","children":"上一章"}]]}],"\n",["$","hr","hr-0",{}],"\n",["$","p","p-1",{"children":"Transformer 是一个基于自注意力的序列到序列的模型，能够进行并行计算。（这是RNN的序列到序列无法做到的）\n下面从两方面介绍Transformer，"}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"Transformer 的结构，即编码器，解码器，编码器-解码器注意力，"}],"\n",["$","li","li-1",{"children":"Transformer 的训练过程以及序列到序列模型的训练技巧"}],"\n"]}],"\n",["$","h2","h2-0",{"id":"71-序列到序列模型","children":"7.1 序列到序列模型"}],"\n",["$","h3","h3-0",{"id":"711-语音识别机器翻译与语音翻译","children":"7.1.1 语音识别、机器翻译与语音翻译"}],"\n",["$","ul","ul-1",{"children":["\n",["$","li","li-0",{"children":"语音识别：输入是声音信号，输出是语音识别的结果，即输入的这段声音信号所对应的文字。由机器自己决定输出的长度。"}],"\n",["$","li","li-1",{"children":"机器翻译：机器输入一个语言的句子，输出另外一个语言的句子。"}],"\n",["$","li","li-2",{"children":"语音翻译：对机器说一句话，机器直接把听到的英语的声音信号翻译成中文。（主要用于没有文字的语言，如闽南语）"}],"\n"]}],"\n",["$","h3","h3-1",{"id":"712-语音合成","children":"7.1.2 语音合成"}],"\n",["$","p","p-2",{"children":"输入文字、输出声音信号就是语音合成（Text-To-Speech，TTS）。"}],"\n",["$","h3","h3-2",{"id":"713-聊天机器人","children":"7.1.3 聊天机器人"}],"\n",["$","p","p-3",{"children":"文本也很广泛的使用了序列到序列模型。\n聊天机器人就是我们对它说一句话，它要给出一个回应。"}],"\n",["$","h3","h3-3",{"id":"714-问答任务","children":"7.1.4 问答任务"}],"\n",["$","p","p-4",{"children":"序列到序列模型在自然语言处理的领域的应用很广泛，而很多自然语言处理的任务都可以当作是问答（Question Answering, QA）的任务。\n就是给机器读一段文字，问机器一个问题，让机器给出一个正确答案。"}],"\n",["$","h3","h3-4",{"id":"715-句法分析","children":"7.1.5 句法分析"}],"\n",["$","p","p-5",{"children":"给机器一段文字，机器要产生一个句法的分析树，即句法树（syntactic tree）。\n在句法分析的任务中，输入是一段文字，输出是一个树状的结构，而一个树状的结构可以看成一个序列，该序列代表了这个树的结构。"}],"\n",["$","h3","h3-5",{"id":"716-多标签分类","children":"7.1.6 多标签分类"}],"\n",["$","p","p-6",{"children":"多分类问题（multi-class classification）是指分类的类别数大于 2。而多标签分类是指同一个东西可以属于多个类。"}],"\n",["$","h2","h2-1",{"id":"72-tranformer-结构","children":"7.2 Tranformer 结构"}],"\n",["$","p","p-7",{"children":"一般的序列到序列模型会分成编码器和解码器。编码器负责处理输入的序列，再把处理好的结果“丢”给解码器，由解码器决定要输出的序列。"}],"\n",["$","h2","h2-2",{"id":"73-tranformer-编码器","children":"7.3 Tranformer 编码器"}],"\n",["$","p","p-8",{"children":"编码器输入一排向量，输出另外一排向量。\nTransformer 的编码器使用的是自注意力，输入一排向量，输出另外一个同样长度的向量。\n编码器里面会分成很多的块（block），每一个块都是输入一排向量，输出一排向量给下一个块。\n每个块的结构如下。输入一排向量后做自注意力，考虑整个序列的信息，输出另外一排向量。接下来这排向量会“丢”到全连接网络网络里面，输出另外一排向量。"}],"\n",["$","p","p-9",{"children":["$","img","img-0",{"className":"Markdown_image__giltp","src":"/images/notes/deep-learning/transformer-encoder.png","alt":"截屏2026-11-16 17.31.37.png","loading":"lazy"}]}],"\n",["$","p","p-10",{"children":["Transformer 里面加入了",["$","strong","strong-0",{"children":"残差连接(residual connection)"}]," 的设计。"]}],"\n",["$","p","p-11",{"children":["Step1: ",["$","strong","strong-0",{"children":"残差连接"}]," 向量 ",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":["$","mi","mi-0",{"children":"b"}]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"b"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.6944em"}}],"$L5"]}]}]]}]," 输入到自注意力层后得到向量 ","$L6","，","$L7"," 得到新的输出（这一步就是残差连接，融合了原始的信息和新的信息）"]}],"\n","$L8","\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b"]}]}],false,"$L6c"]}],["$L6d"],"$L6e"]}],"loading":null,"isPartial":false}
 5:["$","span","span-1",{"className":"mord mathnormal","children":"b"}]
 6:["$","span","span-1",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":["$","mi","mi-0",{"children":"a"}]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"a"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.4306em"}}],["$","span","span-1",{"className":"mord mathnormal","children":"a"}]]}]}]]}]
 7:["$","span","span-2",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"children":"a"}],["$","mo","mo-0",{"children":"+"}],["$","mi","mi-1",{"children":"b"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"a+b"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":[["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.6667em","verticalAlign":"-0.0833em"}}],["$","span","span-1",{"className":"mord mathnormal","children":"a"}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-3",{"className":"mbin","children":"+"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2222em"}}]]}],["$","span","span-1",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.6944em"}}],["$","span","span-1",{"className":"mord mathnormal","children":"b"}]]}]]}]]}]
@@ -110,245 +110,327 @@ f:["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":"第一层全�
 69:["$","p","p-75",{"children":["这就是曝光偏差：",["$","strong","strong-0",{"children":"模型训练时只接触正确的历史输入，但测试时却必须面对自己生成的、可能包含错误的历史输入。"}]]}]
 6a:["$","p","p-76",{"children":["那么既然模型在测试时会看到自己生成的错误，那么能不能在训练时也让它偶尔看到错误？\n这就是",["$","strong","strong-0",{"children":"计划采样"}],"的想法。\n具体而言："]}]
 6b:["$","ul","ul-4",{"children":["\n",["$","li","li-0",{"children":"有时使用标准答案作为下一步输入。"}],"\n",["$","li","li-1",{"children":"有时使用模型自己生成的 Token 作为下一步输入。"}],"\n",["$","li","li-2",{"children":"让模型逐渐适应可能出现的错误上下文。"}],"\n"]}]
-e5:T561a,[系列目录](/blog/deep-learning-notes/) · [上一章](/blog/deep-learning-04-cnn/) · [下一章](/blog/deep-learning-06-self-attention/)
+e5:T3152,## 1. 量子纠错的基本思想
+
+### 1.1 为什么需要量子纠错？
+
+量子计算中的量子比特容易受到环境噪声、控制误差和测量误差的影响，导致量子态发生变化。
+常见的单量子比特 Pauli 错误包括：
+- **比特翻转错误**：(X)，交换 $|0\rangle$ 和 $|1\rangle$。
+- **相位翻转错误**：(Z)，使 $|1\rangle$ 获得一个负号。
+- **比特与相位同时翻转**：(Y=iXZ)。
+
+其中，Pauli 算符定义为
+$$
+X=\begin{pmatrix}0&1\\1&0\end{pmatrix},  
+\qquad  
+Y=\begin{pmatrix}0&-i\\i&0\end{pmatrix},  
+\qquad  
+Z=\begin{pmatrix}1&0\\0&-1\end{pmatrix}.
+$$
+对于未知量子态
+$$
+|\psi\rangle=\alpha|0\rangle+\beta|1\rangle,
+$$
+直接在计算基下测量会得到 $|0\rangle$ 或 $|1\rangle$，通常破坏原来的叠加态。因此，量子纠错不能简单地通过直接读取量子态来判断错误，而需要将逻辑信息编码到多个物理量子比特的关联中，再通过测量校验信息检测错误。
+
+### 1.2 量子纠错不是复制未知量子态
+
+量子纠错并不意味着将未知量子态复制多份。
+以三比特重复码为例，编码过程为
+$$
+\alpha|0\rangle+\beta|1\rangle  
+\longrightarrow  
+\alpha|000\rangle+\beta|111\rangle.
+$$
+定义逻辑计算基：
+$$
+|0_L\rangle=|000\rangle,\qquad  
+|1_L\rangle=|111\rangle.
+$$
+于是逻辑态为
+$$
+|\psi_L\rangle  
+=\alpha|0_L\rangle+\beta|1_L\rangle.
+$$
+三个物理量子比特共同承载一个逻辑量子比特的信息。编码后，逻辑信息仍然存在于振幅 $\alpha,\beta$ 及其相对相位中。
+需要注意，三比特重复码只能纠正单个比特翻转错误，不能单独纠正任意量子错误。
 
 ---
 
-![截屏2026-11-14 16.59.16.png](/images/notes/deep-learning/lstm-memory-cell.png)
+## 2. 三比特重复码与稳定子
 
-**循环神经网络(Recurrent Neural Network)** 是深度学习领域的一种非常经典的网络结构，在现实生活中有着广泛的应用。
-以槽填充为例，系统有一些槽(slot)，系统要自动知道每一个单词是属于哪一个槽。
-这个问题可以用一个前馈神经网络解决，输入是一个单词，然后把输入变成一个向量，再丢进神经网络里面。
-下面是把单词用向量来表示的方法。
-
-## 5.1 独热编码
-
-假设词典中有个单词：apple, bag, cat, dog, elephant
-向量的大小是词典的大小，每一个维度都对应词典的一个单词，对应单词的那个维度为1，其余为0
-
+### 2.1 稳定子的定义
+定义两个校验算符：
 $$
-\begin{aligned} \text{apple} &= [1, 0, 0, 0, 0] \\ \text{bag} &= [0, 1, 0, 0, 0] \\ \text{cat} &= [0, 0, 1, 0, 0] \\ \text{dog} &= [0, 0, 0, 1, 0] \\ \text{elephant} &= [0, 0, 0, 0, 1] \end{aligned}
+S_1=Z_1Z_2,\qquad S_2=Z_2Z_3.
 $$
-
-但是这样会有问题，会出现很多没见过的单词。
-所以我们需要在独热编码里面多加维度，用一个维度代表other。即如果没有出现在词典中，就被归类为other.
-
-还有一种编码方式，可以把每个单词的子串来表示它的向量，比如单词是apple ,里面出现了子串app, ppl, ple，那么apple对应的向量在app, ppl, ple的维度上就是1，其余都是0，整个空间的维度是 $26^3$.
-
-现在我们把单词表示为向量之后，就可以丢进前馈神经网络，输出是要一个概率分布，代表输入单词属于每一个槽的概率。
-  比如”我想在8月1号抵达上海“，这里的输出就是判断”上海“属于目的地的概率和属于出发地的概率。
-
-  这就会导致一个问题，如果另一个用户说”我想在6月1号离开上海“，这个时候上海变成了出发地。对于神经网络而言，同样的输入当然只会有一个输出结果，就是概率最高的那个结果。那在这种情况下，如果神经网络有记忆，能记得它在前面看到了“离开“或者”抵达“，那它就能根据上下文产生不同的输出。这样就解决问题了。
-
-## 5.2 什么事RNN?
-
-在RNN里面，每一次隐藏层的神经元输出的时候，都会被存到记忆元中。
-下一次输入的时候，神经元不仅会考虑输入的 $x_1, x_2$，还会考虑存到记忆元里的值 $a_1, a_2$。
-  记忆元可以简称为单元，记忆元的值也可以称为**隐状态**。
-具体的计算过程如图
-
-![截屏2026-11-14 14.24.50.png](/images/notes/deep-learning/rnn-state-transition.png)
-
-这里要注意在做RNN的时候，它会考虑序列的顺序，如果输入序列调换顺序，那么输出就会不同。
-
-然后我们就能给出RNN的由来了
-  因为当前时刻的隐状态沿用了上一时刻的计算逻辑，使得隐状态的生成具有循环性，因此这种基于循环计算的隐状态神经网络就被称为循环神经网络。
-
-## 5.3 RNN架构
-
-接着我们上面的例子
-  在使用RNN处理槽填充的时候，用户说：“我想在 6 月 1 日抵达上海”，“抵达”就变成了一个向量“丢”到神经网络里面去，神经网络的隐藏层的输出为向量 $a_1$，$a_1$ 产生“抵达“在每一个槽填充出现的概率为 $y_1$，接下来 $a_1$会被存到记忆元里面去，“上海”变为输入，这个隐藏层就会同时考虑“上海”和记忆元里面的 $a_1$，得到 $a_2$，根据 $a_2$ 得到 $y_2$，$y_2$ 是”上海“在每一个槽填充出现的概率。
-
-   注意，这里并没有用三个网络，而是同一个网络三个不同的时间点被使用了3次
-
-这样有了记忆元之后，输入同一个单词，输出就有可能不同，因为同样都是“上海”，一个前面接的是“抵达”，一个是“离开”，二者的向量不一样，隐藏层的输出就不一样，所以存在记忆元里面的值就不一样。这样碰到“上海”的时候，由于存在记忆元里面的值不同，所以隐藏层的输出就会不同，最后的输出就不同！
-
-## 5.4 其他的RNN
-
-RNN的架构当然可以随意设计，前面的例子都是只有一个隐藏层的，当然也可以是深层的。这样，把一个 $x_t$ 丢进去之后，它可以通过若干个隐藏层，才得到最后的输出。
-每一个隐藏层的输出都会被存在记忆元里面，在下一个时间点，每一个隐藏层就会把钱一个时间点的值读出来，循环往复直到得到输出，这个过程会一直持续下去。
-
-### 5.4.1 Elman 网络 和 Jordan 网络
-
-刚才讲的是简单循环网络（Simple Recurrent Network, SRN），即把隐藏层的值存起来，在下一个时间点在读出来。
-
-还有一种Jordan网络，存的是整个网络的**输出值**，它把输出值在下一个时间点读出来，然后把输出存进记忆元里。
-Elman 网络一般就是指的上面的SRN。
-
-做一个比较：
-  Elman 网络没有目标，很难控制说它能学到什么隐藏层信息（放到记忆元里），但是 Jordan 网络是有目标，比较很清楚记忆元存储的东西。
-
-![截屏2026-11-14 15.14.14.png](/images/notes/deep-learning/elman-jordan-networks.png)
-
-### 5.4.2 双向循环神经网络
-
-![截屏2026-11-14 15.13.52.png](/images/notes/deep-learning/bidirectional-rnn.png)
-
-Bi-RNN 的好处是，神经元输出的时候，他看的范围是比较广的。
-在产生 $y_{t+1}$ 的时候，网络不只是看过 $x_1,...,x_{t+1}$ 的输入，还看了从句末到 $x_{t+1}$ 的输入，那么网络就相当于整个输入。这个性能应该会比只看句子的一部分要好。
-
-### 5.4.3 长短期记忆网络LSTM
-
-最常用的记忆元是**长 短期记忆网络（Long Short-Term Memory network，LSTM）**
-长时间的短期记忆。
-LSTM 有三个门
-
-+ 当外界某个神经元的输出想要被写到记忆元里面的时候，必须通过一个**输入门**。只有输入门打开的时候，才能把值写进记忆元。门的开关是神经网络自己学习的。
-+ 输出的地方同样也有一个**输出门**，输出门会决定外界其他的神经元能否从这个记忆元里面把值读出来。输出门打开的时候才可以把值读出来。输出门什么时候打开什么时候关闭，也是网络自己学到的。
-+ 还有一个门称为**遗忘门**，决定什么时候记忆元要把过去记得的东西忘掉。这也是网络自己学的
-
-整个LSTM 可以看成是有4个输入，1个输出。
-在这4个输入中，一个是想要被存在记忆元的值（但不一定能存进去），还有操控输入门的信号、操控输出门的信号、操控遗忘门的信号，有着四个输入但它只会得到一个输出。
-
-  之前的循环神经网络，它的记忆元在每一个时间点都会被洗掉，只要有新的输入进来，每一个时间点都会把记忆元洗掉， 所以的短期是非常短的，但如果是长时间的短期记忆元，它记得会比较久一点，只要遗忘门不要决定要忘记，它的值就会被存起来。
-
-记忆元对应的计算公式为
-
+其中，$Z_i$ 表示对第 $i$ 个量子比特施加 Pauli $Z$ 算符。
+对于计算基态：
 $$
-\begin{aligned}c'&=g(z)f(z_i)+cf(z_f)\\a&=h(c')f(z_o) \end{aligned}
+Z|0\rangle=|0\rangle,\qquad  
+Z|1\rangle=-|1\rangle.
 $$
-
-这里，$z$ 是要被存到单元的输入，$z_i$ 是操控输入门的信号，$z_f$ 是操控遗忘门的信号，$z_o$ 是操控输出门的信号。这些东西综合起来得到一个输出 $a$
-$g(z)$ 是将 $z$ 通过激活函数之后的结果，$f(z_i)$ 是 $z_i$ 通过另一个激活函数的结果，这里的激活函数一般会选择sigmoid函数，因为值介于0和1之间，就代表了门被打开的程度。
-$c'$ 是重新存到记忆元里面的值。
-
-我们的计算过程中，$f(z_i)$ 能控制$g(z)$，因为$f(z_i)=0\rightarrow f(z_i)g(z)=0, f(z_i)=1\rightarrow f(z_i)g(z)=g(z)$  这就意味着能决定要不要记忆这个新的输入，
-然后 $f(z_f)$ 能决定是否把存在记忆元的值 $c$ 抹去，也是同样的道理。稍微反直觉的是，遗忘门的“1”，开放，代表记得；“0”，关闭，代表遗忘。
-
-之后得到了 $c'$ ，然后再受 $f(z_o)$ 操控，$f(z_o)=1$ 就表示记忆元里面存在的值能被输出门读出来。
-下图很直观地展示了上面的过程。
-
-![截屏2026-11-14 16.59.16.png](/images/notes/deep-learning/lstm-memory-cell.png)
-
-### 5.4.5 LSTM 运算示例
-
-记忆元的四个输入标量的由来：输入的三维向量乘以线性变换后得到的结果 $x_1, x_2, x_3$，去乘以权重再加上一个偏置就得到一个标量。
-后面的计算过程没什么好展示的（懒得写了）。
-
-## 5.5 LSTM原理
-
-我们可以把LSTM当成是复杂一点的神经元。
-为了简化讨论，假设隐藏层中只有两个神经元，输入为 $x_1$ 和 $x_2$。
-在普通神经网络中，每个神经元接收输入，并通过权重矩阵进行线性变换，最终产生一个输出。而在 LSTM 中，情况有所不同。每个 LSTM 单元需要接收四组不同的输入。
-具体来说，输入 $x_1$ 和 $x_2$ 会分别经过四组不同的权重矩阵变换，得到四组不同的结果，再分别用于控制遗忘门、输入门、输出门和候选记忆状态的计算。第二个 LSTM 单元也采用相同的计算方式。
-因此， LSTM 单元需要四组权重参数。
-在隐藏单元数量相同、忽略偏置等其他细节的情况下，LSTM 的参数量大约是普通神经网络的四倍。
-
-具体来说：
-  假设一整层 LSTM 中包含多个记忆元，每个记忆元都存储着一个值。将所有记忆元中存储的值按照顺序排列，就可以得到一个向量，记为 $c_{t-1}$。其中，每个记忆元存储的值对应向量中的一个维度。
-
-  在时刻 $t$，网络接收到输入向量 $x_t$。首先，将 $x_t$ 经过不同的线性变换，得到四个不同的向量，分别记为 $z$、$z_i$、$z_f$ 和 $z_o$。这四个向量的维度都与 LSTM 记忆元的数量相同。
-  以 $z$ 为例，它的第一个维度对应第一个 LSTM 单元，第二个维度对应第二个 LSTM 单元，以此类推。其他三个向量也采用相同的对应方式，分别为每个记忆元提供相应的输入。
-
-  因此，原本需要分别输入每个 LSTM 单元的数值，现在可以通过四个向量统一表示。这样，一整层 LSTM 就可以通过矩阵运算，同时完成所有记忆元的输入计算。
-
-  得到四个输入向量 $z$、$z_i$、$z_f$ 和 $z_o$ 后，就可以将它们分别丢进对应的 LSTM 记忆元。
-  每个记忆元实际接收到的并不是整个向量，而是一个分量。例如，第一个记忆元接收四个向量的第一个分量，第二个记忆元接收四个向量的第二个分量。不同的记忆元因为输入不同，虽然计算公式一样，但是会得到不同的输出。
-
-   后面就可以按照前面的两个公式计算：首先将 $z_i$ 经过激活函数，再与候选记忆状态 $z$ 相乘，决定有多少新信息写入记忆元；同时，将 $z_f$ 经过激活函数，与上一时刻记忆元中存储的值 $c_{t-1}$ 相乘，决定有多少历史信息被保留。然后，将这两部分相加，得到当前时刻新的记忆状态 $c_t$。最后，将 $z_o$ 经过激活函数得到输出门的值，再与当前记忆状态经过激活函数后的结果相乘，就得到了当前时刻的输出 $y_t$。其中，相加得到的结果 $c_t$ 就是当前记忆元中存储的新值。
-
-  上述过程会不断重复。在下一个时间点，输入新的向量 $x_{t+1}$，通过输入门控制新信息的写入，通过遗忘门控制历史信息的保留，再将两部分相加得到新的记忆状态，最后通过输出门得到新的输出 $y_{t+1}$。
-
-  不过，上述结构还不是完整的 LSTM。LSTM 在计算门控信号时，不仅考虑当前时刻的输入 $x_t$，还会将上一时刻的输出 $y_{t}$ 引入计算。也就是说，在时刻 $t$ 的参数不再仅由当前输入 $x_t$ 决定，还会受到上一时刻隐藏状态 $y_{t}$ 的影响。
-
-引入 Peephole Connection（窥孔连接)。
-  Peephole 连接的核心思想是：将记忆元内部存储的值也引入门控计算。这样，在控制 LSTM 各个门时，除了考虑当前输入 $x_t$ 和上一时刻的隐藏状态 $y_{t})$，还可以直接参考 $c_{t-1}$（对于输出门，也可以参考更新后的 $c_t$）。
-
-  因此，加入 Peephole 连接后，LSTM 在计算各个门的控制信号时，会综合考虑当前输入、上一时刻的隐藏状态以及记忆元存储的值，再通过不同的线性变换得到相应的控制向量，最终完成记忆状态的更新和输出。
-LSTM通常不会只有一层，一般做RNN的时候，其实就是指的用LSTM。
-
-## 5.6 RNN学习方式
-
-要做学习，那就要定义 $loss function$ 来评估我们模型的好坏。
-
-以填充槽为例，还是之前的"arrive shanghai on June 1st"，要给橘子一些标签，告诉机器"arrive" 属于other 槽，"shanghai“ 是目的地槽，"on"属于other槽，"June""1st"属于时间槽。"arrive“丢进神经网络，我们得到一个输出 $y_1$，然后算它和它的参考向量的交叉熵。这个参考向量的维度是other槽的长度。参考向量对应到other槽的那个维度取为1，其余维度取为0。然后再把"shanghai"丢进去，参考向量对应目的地槽。注意，一定要保证单词序列的顺序！
-
-RNN 的（损失函数输出和参考向量的）交叉熵的和就是要最小化的对象。
-
-在有了 loss function 之后，训练也是用梯度下降做的。
-之前我们在梯度下降里用了反向传播（计算梯度$\frac{\partial L}{\partial w_i}$）。
-我们这里提出反向传播的进阶版本，**随时间反向传播(BPTT)**。BPTT只是要多考虑一个时间上的信息，因为RNN是在时间序列上运作的。
-
-下面是一些会遇到的问题：
-  RNN的训练是比较困难的，需要一点运气。
-  RNN 的误差表面是很崎岖的，有的时候会遇到悬崖，导致损失暴涨，因为悬崖的梯度很大，而之前的梯度会很小，学习率调的比较大。很大的梯度乘上很大的学习率结果参数就更新很多，整个参数就飞出去了。
-
-  相应的办法是**裁剪**，当梯度大于某一个阈值的时候，不要让它超过那个阈值。
-
-  还会遇到梯度消失的情况。
-  考虑一个参数小小的变化，看它对网络输出的变化有多大，就能得到梯度的大小。
-
-  举一个很贱的的例子，只有一个神经元，而且是线性的，输入的权重是 1，输出的权重也是 1， 转移的权重是 $w$。也就是说从记忆元接到神经元的输入的权重是 $w$。
-
-  假设神经网络的输入是$[1,0,0,0]^\top$，$w$ 是要学习的参数，我们想知道它的梯度。假设$w=1$，在最后一个时间点的时候，是第1000个输出值，对应$y_{1000}=w^{999}$，那么$y_{1000}=1$，$w$ 变化成1.01，$y_{1000}\approx20000$，这说明$w$ 有一点小小的变化，就能对输出产生非常的影响，这说明 $w$ 有很大的梯度。那我们把学习率调小一点就行。但是在0.99的地方，$w$ 却又没有梯度了，需要一个很大的学习率。
-
-  但是设置学习率非常麻烦。
-
-  RNN 训练困难的一个核心原因在于：**同一组权重 ($W$) 会在不同的时间步中被反复使用。** 因此，权重 ($W$) 的微小变化可能会随着时间步的不断传递而累积，最终产生很大的影响；也可能因为反复相乘而使影响逐渐减弱。这会导致梯度消失或梯度爆炸，使得 RNN 的训练变得困难。所以，RNN 训练困难的根本原因并不单纯在于激活函数，而在于它的循环结构：**同一组权重在时间序列中被反复使用，导致梯度在反向传播过程中需要经过多次连乘。**
-
-## 5.7 如何解决RNN梯度消失或者爆炸的问题
-
-广泛应用的技巧就是LSTM。LSTM 可以让误差表面不要那么崎岖。它会把那些平坦的地方拿掉，解决梯度消失的问题，但不会解决梯度爆炸的问题。
-
-为什么呢？
-  RNN 跟 LSTM 在面对记忆元的时候，处理的操作不一样。在 RNN 里面，在每一个时间点，神经元的输出都要到记忆元里面去，记忆元里之前的值都是会被覆盖掉。
-
-  但是在 LSTM 里面，它是把原来记忆元里面的值乘上一个值再把输入的值加起来放到单元里面。记忆和输入是按照权重相加的，所以一旦发生影响会永远都存在，除非遗忘门要把记忆元的值洗掉。 所以就不会出现梯度消失的情况。
-
-所以有个传言：在训练 LSTM 的时候，要给遗忘门特别大的偏置，确保遗忘门在多数的情况下都是开启的，只要少数的情况是关闭的。
-
-有另外一个版本用门操控记忆元，叫做 GRU，它只有两个门，更新门（决定保留多少旧记忆，以及引入多少新信息）和重叠门（决定在生成候选记忆时，忽略多少过去的信息，这是机器可以自己决定的），主要的精神就是：**旧的不去，新的不来**。
-
+因此，$Z_i$的测量结果取决于两个量子比特是否相同：
+- 两个比特相同，测量结果为 $+1$；
+- 两个比特不同，测量结果为 $-1$。
+所以，$S_1$ 检查第一个和第二个量子比特，$S_2$检查第二个和第三个量子比特。
+稳定子满足
 $$
-h_t=z_t\odot h_{t-1} +(1-z_t)\odot\tilde h_t
+S_i|\psi_L\rangle=|\psi_L\rangle.
+$$
+对于三比特重复码：
+$$
+S_1|\psi_L\rangle=|\psi_L\rangle,  
+\qquad  
+S_2|\psi_L\rangle=|\psi_L\rangle.
+$$
+因此，无错误时，两个稳定子的测量结果均为 $+1$。
+
+### 2.2 为什么稳定子测量不会读掉逻辑信息？
+对于逻辑基态，有
+$$
+S_1|000\rangle=|000\rangle,  
+\qquad  
+S_1|111\rangle=|111\rangle.
+$$
+对于 $S_2$ 也同样成立。
+所以，对逻辑叠加态进行稳定子测量时：
+$$
+S_i(\alpha|000\rangle+\beta|111\rangle)  
+=\alpha|000\rangle+\beta|111\rangle.
+$$
+两个逻辑基态对应相同的稳定子测量结果。因此，测量不会区分 $|000\rangle$ 与 $|111\rangle$，也就不会直接读出 $\alpha,\beta$。
+**稳定子测量读取的是编码空间的校验信息，而不是逻辑量子态本身。**
+严格地说，稳定子测量区分不同的校验子空间，但保留同一个校验子空间内部的逻辑信息。
+
+---
+
+## 3. 错误综合征：如何定位错误？
+
+### 3.1 什么是错误综合征？
+**错误综合征（error syndrome）** 是一组稳定子测量结果，用来表征量子态是否发生错误，以及错误可能属于哪一类。
+对于三比特重复码，定义综合征为
+$$
+\mathbf{s}=(s_1,s_2),  
+\qquad s_i\in{+1,-1}.
+$$
+其中：
+- $+1$：相应稳定子校验通过；
+- $-1$：相应稳定子校验不通过。
+
+### 3.2 Pauli $X$ 错误的作用
+Pauli $X$ 算符满足
+$$
+X|0\rangle=|1\rangle,\qquad  
+X|1\rangle=|0\rangle.
+$$
+因此，$X_i$表示第 $i$ 个物理量子比特发生比特翻转。
+由于 Pauli 算符之间的对易关系：
+$$
+XZ=-ZX,  
+$$
+所以 $X_i$ 与包含 $Z_i$ 的稳定子反对易，而与不包含 $Z_i$ 的稳定子对易。
+这意味着：如果一个 $X$ 错误作用于某个量子比特，那么所有包含该量子比特的 $Z$ 型稳定子，其测量结果都会翻转符号。
+
+### 3.3 三种单比特错误的综合征
+
+| 错误    | $S_1=Z_1Z_2$ | $S_2=Z_2Z_3$ | 综合征       |
+| ----- | ------------ | ------------ | --------- |
+| 无错误   | $(+1)$       | $(+1)$       | ($+1,+1$) |
+| $X_1$ | $(-1)$       | $(+1)$       | ($-1,+1$) |
+| $X_2$ | $(-1)$       | $(-1)$       | ($-1,-1$) |
+| $X_3$ | $(+1)$       | $(-1)$       | ($+1,-1$) |
+
+例如，发生 $X_1$ 错误后：
+$$
+|\psi'\rangle  
+=\alpha|100\rangle+\beta|011\rangle.
+$$
+此时第一个和第二个量子比特不同，而第二个和第三个量子比特相同，所以综合征为
+$$
+\mathbf{s}=(-1,+1).
+$$
+由此可以定位到第一个量子比特发生了比特翻转错误。
+**在只有单个 $X$ 错误的假设下，三比特重复码的综合征能够唯一定位错误位置。**
+
+### 3.4 综合征不能总是唯一确定错误
+考虑双比特错误 $X_1X_2$。
+它与两个稳定子的对易关系表明：
+- $S_1$ 包含两个被翻转的量子比特，因此符号不变；
+- $S_2$ 只包含其中一个被翻转的量子比特，因此符号翻转。
+
+于是：
+$$
+\mathbf{s}(X_1X_2)=(+1,-1).
+$$
+但这恰好与 $X_3$ 的综合征相同：
+$$
+\mathbf{s}(X_3)=(+1,-1).
+$$
+因此，综合征只能确定错误所属的校验子空间，未必能够唯一确定实际错误。
+这也是为什么需要结合物理错误模型和解码算法，推断最可能的错误。
+
+---
+
+## 4. 量子纠错的完整流程
+量子纠错通常包含以下环节：
+1. **编码（Encoding）**：将逻辑量子比特编码到多个物理量子比特中。
+2. **错误检测（Error Detection）**：测量稳定子，获取校验信息。
+3. **解码（Decoding）**：根据综合征和错误模型推断最可能的错误。
+4. **恢复（Recovery）**：实际施加纠错操作，或者通过经典记录补偿 Pauli 错误。
+需要区分：
+- 稳定子测量本身主要提供错误检测信息；
+- 解码器负责根据这些信息推断错误；
+- 恢复操作才负责补偿错误。
+这几个环节共同构成量子纠错过程。
+
+---
+
+## 5. 解码器与 Pauli frame
+
+### 5.1 解码器的作用
+**解码器（decoder）** 是处理错误综合征的经典算法或经典控制模块。
+它根据综合征、噪声模型和可能的错误历史，判断最可能发生了什么错误，并决定采用哪种恢复策略。
+例如，综合征为
+$$
+\mathbf{s}=(-1,+1)
+$$
+时，在三比特重复码且单比特错误占主导的条件下，解码器会倾向于推断发生了 $X_1$ 错误。
+随后可以施加 $X_1$ 进行恢复。
+但在真实系统中，解码器通常需要考虑多个错误的可能性，因此推断结果不一定等于实际发生的错误。
+
+### 5.2 Pauli frame 是什么？
+**Pauli frame（泡利框架）** 是一种通过经典记录跟踪 Pauli 修正的方法。
+假设实际状态与理想状态满足
+$$
+|\psi_{\mathrm{actual}}\rangle  
+=X_1|\psi_{\mathrm{ideal}}\rangle.
+$$
+传统做法是立即再施加一次 $X_1$，利用
+$$
+X_1X_1=I
 $$
 
-## 5.8 RNN的其他应用
+恢复理想状态。
+而使用 Pauli frame 时，可以先在经典控制记录中标记一个 $X_1$ 修正，在后续门操作和测量结果处理中考虑这一偏差。这样可以避免不必要的物理纠错脉冲，减少额外控制误差。但 Pauli frame 并不意味着错误已经自动消失。它是在经典记录中跟踪修正，并要求后续操作正确地考虑该记录。
 
-### 5.8.1 多对一序列
+---
 
-输入是一个序列，输出是一个向量。
-情感分析是典型的应用。用机器学习的方法学习一个分类器，判断网络上的评价的好坏。
+## 6. 为什么需要连续多轮稳定子测量？
 
-用RNN来做关键术语抽取。
-具体过程如下：
+### 6.1 测量本身也会出错
+真实实验中的稳定子测量并非完全可靠。
+例如，测量结果为 $-1$，可能是因为：
+1. 数据量子比特发生了错误；
+2. 辅助量子比特或测量过程发生了错误。
+因此，单轮测量通常无法完全区分数据错误和测量错误。
 
-1. **输入文档**：将文章中的每个单词通过 Embedding Layer 转换成词向量。
-2. **RNN 编码**：RNN 按照单词顺序读取整篇文章，逐步提取上下文信息，得到每个时间步的隐藏状态 $h_1,h_2,\ldots,h_T$。
-3. **注意力机制**：取最后一个时间步的隐藏状态 $h_T$ 作为 Query，与前面各个时间步的隐藏状态进行注意力计算，从而结合整篇文章的信息，判断每个单词的重要程度。
-4. **前馈神经网络**：将注意力提取的信息送入前馈神经网络，对每个单词进行预测，判断它是否属于关键术语。
-5. **训练模型**：利用人工标注的数据（哪些单词是关键术语），计算预测结果与真实标签之间的损失，通过反向传播更新参数。
+### 6.2 比较相邻轮次的测量结果
+假设同一个稳定子连续四轮的测量结果为：
 
-### 5.8.2 多对多序列
+| 测量轮次  | 测量结果   |
+| ----- | ------ |
+| 第 1 轮 | $(+1)$ |
+| 第 2 轮 | $(+1)$ |
+| 第 3 轮 | $(-1)$ |
+| 第 4 轮 | $(-1)$ |
 
-输入和输出都是一个序列，但是输出的序列比输入的短。
-语音识别就是典型的应用。
+第 2 轮到第 3 轮发生了结果变化。这提示我们，期间可能发生了数据错误，也可能是某轮测量出了错。
+再考虑：
+$$
++1,\quad +1,\quad -1,\quad +1.
+$$
+只有第 3 轮出现异常结果。这种模式可能由一次测量错误造成，因为前后两轮都回到了 $+1$。
+连续多轮测量提供了额外的时间信息，帮助解码器区分不同的错误机制。
 
-传统 RNN 语音识别通常将声音信号每隔一小段时间（例如 0.01 秒）转换成一个特征向量，再逐个输入 RNN，由分类器预测每个时间步对应的字符。但是，由于声音帧的数量远多于文字字符的数量，多个连续时间步可能对应同一个字符，因此直接拼接预测结果会出现大量重复字符。例如，可能得到“好好好棒棒棒”，需要通过去重处理得到“好棒”。但简单去重无法区分“好棒”和“好棒棒”。
+### 6.3 检测事件（Detection Event）
+检测事件通常指同一个稳定子在相邻测量轮次之间发生结果变化。
+可以将稳定子结果写成二进制变量：
+$$
+m_i^{(t)}=  
+\begin{cases}  
+0,&s_i^{(t)}=+1,\\
+1,&s_i^{(t)}=-1.  
+\end{cases}
+$$
+则相邻轮次的检测事件可以写为
+$$
+d_i^{(t)}  
+=m_i^{(t)}\oplus m_i^{(t-1)},
+$$
+其中 $\oplus$ 表示异或。
+因此：
+- 两轮结果相同，$d_i^{(t)}=0$，没有检测事件；
+- 两轮结果不同，$d_i^{(t)}=1$，出现检测事件。
+检测事件是解码器的重要输入。解码器会综合多个稳定子和多个时间轮次的检测事件，推断最可能的错误路径。
+在码的初始化、终止或边界位置，还需要相应调整检测事件的定义。
 
-为了解决这个问题，CTC(**Connectionist Temporal Classification，连接时序分类**) 引入了一个特殊的空白符号（null），允许 RNN 在输出字符之外，也输出表示当前时间步不对应任何字符的空白符号。例如：
+---
 
-- 好、null、null、棒、null → 好棒
-- 好、null、null、棒、null、棒 → 好棒棒
+## 7. 从三比特重复码到表面码和色码
+### 7.1 三比特重复码的局限
+三比特重复码使用
+$$
+S_1=Z_1Z_2,\qquad S_2=Z_2Z_3
+$$
+检测比特翻转错误。
+但是，它不能单独保护任意量子态免受所有类型的错误。
+例如，相位翻转 $Z$ 错误不会改变上述两个稳定子的测量结果，因此无法通过这组稳定子被检测出来。
 
-这样既能消除连续重复预测带来的问题，又能保留真正需要表达的重复字符。
+### 7.2 表面码（Surface Code）
+表面码通常将数据量子比特和校验结构安排在二维晶格上，通过两类稳定子检测错误：
+- $Z$ 型稳定子，用于检测 $X$ 型错误；
+- $X$ 型稳定子，用于检测 $Z$ 型错误。
 
-**CTC 的训练方式**也比较特殊：训练数据只需要提供一段声音特征序列及其对应的完整文字序列，不需要人工标注每个字符具体对应哪几个时间步。CTC 会考虑所有可能的时间对齐路径，并将能够转换成目标文字序列的路径概率加起来，作为该目标序列的概率，再据此计算损失、训练模型。
+原因是 $X$ 与 $Z$ 反对易：一个错误会翻转所有与它反对易的稳定子测量结果。
+表面码通过重复测量获得时空综合征，再由解码器推断错误链。
 
-此外，在英文语音识别中，模型可以直接预测英文字母和 Blank，通过训练学习字符之间的关系，不需要提前告诉模型哪些字母组成一个单词。因此，即使遇到训练集中没有出现过的人名或地名，只要其发音和字母对应关系能够被模型学习到，也有机会正确识别。
+### 7.3 色码（Color Code）
+色码同样使用稳定子测量来检测量子错误，但采用不同的晶格和校验结构。
+与表面码相比，色码在逻辑门实现、晶格结构和解码策略等方面具有不同特点。
 
-### 5.8.3 序列到序列
+表面码和色码都需要考虑数据错误、测量错误和逻辑错误。
 
-另一个RNN的应用是**序列到序列(Seq2Seq)学习**，与 CTC 不同，Seq2Seq 不要求输入序列一定比输出序列长，也不要求两者长度相同。
+---
 
-其基本思想是：首先利用 RNN 依次读取整个输入序列，并将输入序列的信息压缩到最后一个时间步的隐藏状态（记忆元）中；然后以这个隐藏状态作为上下文信息，逐步生成输出序列，每次将上一步生成的字符重新作为下一步的输入，直到模型输出特殊的结束符号（EOS），停止生成。由于输入和输出可以具有不同的长度，因此 Seq2Seq 可以应用于机器翻译等任务，例如将英文单词序列转换成中文字符序列。
+## 8. 与中性原子量子计算的联系
 
-Seq2Seq 还有一些扩展应用：
+在中性原子量子计算中，原子通常充当物理量子比特。
+真实实验中可以利用辅助原子与数据原子之间的受控相互作用，实现稳定子测量电路。
+典型流程如下：
+1. 准备数据原子和辅助原子。
+2. 通过单比特门及受控相互作用，让辅助原子与数据原子耦合。
+3. 测量辅助原子，获得校验结果。
+4. 重复多轮稳定子测量。
+5. 将测量记录输入解码器。
+6. 根据解码结果施加恢复操作，或者更新 Pauli frame。
+这里需要注意：辅助原子的测量并不是直接测量逻辑量子态，而是通过受控相互作用提取稳定子信息。
+对于里德堡中性原子平台，里德堡态之间的强相互作用可以用于实现纠缠门和校验电路。但具体实验架构可能采用不同的辅助原子安排、测量方式和纠错协议。
 
-1. **跨语言语音翻译**：可以直接输入一种语言的声音信号，输出另一种语言的文字，不必先进行语音识别。例如闽南语转英文，只需要收集闽南语语音及其对应的英文翻译，不需要闽南语的标准文字。
-2. **句法解析（Syntactic Parsing）**：将句子的句法结构树转换成序列形式，让模型直接学习从句子到句法树的映射关系，并通过括号等符号表示树的层次结构。
-3. **序列到序列自编码器（Seq2Seq Autoencoder）**：将一个文档输入 RNN，编码成一个固定长度的向量，再通过解码器尝试重建原始序列。与词袋模型（BoW）忽略单词顺序不同，这种方法能够保留序列的顺序信息，从而更好地表示文档的语义。例如，"white blood cells destroying an infection" 和 "an infection destroying white blood cells" 虽然包含相同的单词，但语义相反，Seq2Seq 能够利用词序信息区分它们。
-6c:["$","$L2",null,{"as":"aside","marginTop":"48","children":[["$","span",null,{"className":"Personal_eyebrow__ZKe3q mb-16","style":{},"children":"KEEP READING"}],[["$","$Le4","deep-learning-notes",{"entry":{"slug":"deep-learning-notes","title":"深度学习学习笔记 · 系列目录","date":"2026-11-16","category":"技术","summary":"从机器学习基础到 Transformer，共七章学习笔记。","cover":"","sample":false,"sections":[{"title":"","text":""}],"sourceName":"深度学习学习笔记目录.md","markdownAssets":[],"markdown":"| 章节 | 学习内容 |\n| --- | --- |\n| [第 1 章：机器学习基础](/blog/deep-learning-01-machine-learning/) | 模型、损失函数、梯度下降、激活函数与神经网络 |\n| [第 2 章：实践方法论](/blog/deep-learning-02-methodology/) | 模型偏差、优化问题、过拟合、交叉验证与分布不匹配 |\n| [第 3 章：深度学习基础](/blog/deep-learning-03-fundamentals/) | 鞍点、动量、自适应学习率、分类损失与批量归一化 |\n| [第 4 章：卷积神经网络](/blog/deep-learning-04-cnn/) | 感受野、参数共享、卷积、汇聚与 AlphaGo 示例 |\n| [第 5 章：循环神经网络](/blog/deep-learning-05-rnn/) | RNN 架构、LSTM、梯度问题与序列到序列应用 |\n| [第 6 章：自注意力机制](/blog/deep-learning-06-self-attention/) | QKV、多头注意力、位置编码与 CNN、RNN 对比 |\n| [第 7 章：Transformer](/blog/deep-learning-07-transformer/) | 编码器、解码器、交叉注意力与序列训练技巧 |\n\n[查看 GitHub 版本](https://github.com/concorde-blade/ai-math-discussion/tree/main/notes/deep-learning)\n"}}],["$","$Le4","deep-learning-05-rnn",{"entry":{"slug":"deep-learning-05-rnn","title":"第 5 章：循环神经网络","date":"2026-11-15","category":"技术","summary":"RNN 架构、LSTM、梯度问题与序列到序列应用","cover":"","sample":false,"sections":[{"title":"","text":""}],"markdown":"$e5","sourceName":"Chap5 循环神经网络.md","markdownAssets":[{"name":"assets/lstm-memory-cell.png","src":"/images/notes/deep-learning/lstm-memory-cell.png"},{"name":"assets/rnn-state-transition.png","src":"/images/notes/deep-learning/rnn-state-transition.png"},{"name":"assets/elman-jordan-networks.png","src":"/images/notes/deep-learning/elman-jordan-networks.png"},{"name":"assets/bidirectional-rnn.png","src":"/images/notes/deep-learning/bidirectional-rnn.png"}]}}]]]}]
+---
+
+## 9. 核心概念总结
+
+|概念|含义|
+|---|---|
+|逻辑量子比特|编码在多个物理量子比特中的量子信息|
+|稳定子|用于定义编码空间并提供校验信息的对易算符|
+|错误综合征|一组稳定子测量结果，表征错误特征|
+|错误检测|判断量子态是否偏离预期校验条件|
+|解码器|根据综合征和噪声模型推断最可能的错误|
+|恢复操作|补偿推断出的错误，恢复逻辑信息|
+|Pauli frame|在经典记录中跟踪 Pauli 修正|
+|检测事件|相邻测量轮次中稳定子结果的变化|
+|表面码|利用二维晶格稳定子结构进行容错纠错的量子纠错码|
+|色码|采用不同稳定子和晶格结构的量子纠错码|
+
+## 10. 最重要的理解
+
+量子纠错不是直接读取未知量子态，而是通过稳定子测量检查量子态的关联是否符合编码规则。稳定子测量提供错误信息，综合征记录错误特征，解码器根据这些特征推断最可能的错误，恢复操作或 Pauli frame 则负责补偿错误。对于真实的容错量子计算，必须进一步考虑测量错误、多轮检测、解码延迟和逻辑错误率等问题。
+
+**核心流程：编码 → 稳定子测量 → 错误综合征 → 解码 → 恢复。**
+6c:["$","$L2",null,{"as":"aside","marginTop":"48","children":[["$","span",null,{"className":"Personal_eyebrow__ZKe3q mb-16","style":{},"children":"KEEP READING"}],[["$","$Le4","deep-learning-notes",{"entry":{"slug":"deep-learning-notes","title":"深度学习学习笔记","date":"2026-11-16","category":"技术","summary":"7 篇学习笔记，从机器学习基础、优化方法到循环神经网络、自注意力与 Transformer。","cover":"","sample":false,"sections":[{"title":"","text":""}],"sourceName":"深度学习学习笔记目录.md","markdownAssets":[],"markdown":"| 章节 | 学习内容 |\n| --- | --- |\n| [第 1 章：机器学习基础](/blog/deep-learning-01-machine-learning/) | 模型、损失函数、梯度下降、激活函数与神经网络 |\n| [第 2 章：实践方法论](/blog/deep-learning-02-methodology/) | 模型偏差、优化问题、过拟合、交叉验证与分布不匹配 |\n| [第 3 章：深度学习基础](/blog/deep-learning-03-fundamentals/) | 鞍点、动量、自适应学习率、分类损失与批量归一化 |\n| [第 4 章：卷积神经网络](/blog/deep-learning-04-cnn/) | 感受野、参数共享、卷积、汇聚与 AlphaGo 示例 |\n| [第 5 章：循环神经网络](/blog/deep-learning-05-rnn/) | RNN 架构、LSTM、梯度问题与序列到序列应用 |\n| [第 6 章：自注意力机制](/blog/deep-learning-06-self-attention/) | QKV、多头注意力、位置编码与 CNN、RNN 对比 |\n| [第 7 章：Transformer](/blog/deep-learning-07-transformer/) | 编码器、解码器、交叉注意力与序列训练技巧 |\n\n[查看 GitHub 版本](https://github.com/concorde-blade/ai-math-discussion/tree/main/notes/deep-learning)\n"}}],["$","$Le4","qec-note-1",{"entry":{"slug":"qec-note-1","title":"量子纠错入门：稳定子、错误综合征与解码","date":"2026-10-12","category":"随笔","summary":"量子纠错不是直接读取未知量子态，而是通过稳定子测量检查量子态的关联是否符合编码规则。稳定子测量提供错误信息，综合征记录错误特征，解码器根据这些特征推断最可能的错误，恢复操作或 Pauli frame 则负责补偿错误。对于真实的容错量子计算，必须进一步考虑测量错误、多轮检测、解码延迟和逻辑错误率等问题。","cover":"https://arthurpesah.me/assets/img/blog/surface-code/thumbnail.png","sample":false,"sections":[{"title":"","text":""}],"markdown":"$e5","sourceName":"QEC的一些基本知识.md","markdownAssets":[]}}]]]}]
 6d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/75fc7e897e52fce5.css","precedence":"next"}]
 6e:["$","$Le6",null,{"children":["$","$e7",null,{"name":"Next.MetadataOutlet","children":"$@e8"}]}]
 6f:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.15em"},"children":["$","span","span-0",{}]}]}]

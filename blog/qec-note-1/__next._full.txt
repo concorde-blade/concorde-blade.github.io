@@ -11,18 +11,18 @@ d:I[15718,[],""]
 :HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/3441da7062753b32.css","style"]
-:HL["/_next/static/css/4da48f27f83096c2.css","style"]
+:HL["/_next/static/css/34313a8bcb215d97.css","style"]
 :HL["/_next/static/css/425b5defc710ef69.css","style"]
 :HL["/_next/static/css/3554c17e19c865bb.css","style"]
 :HL["/_next/static/css/f5207e868f667052.css","style"]
 :HL["/_next/static/css/1506fc05182fcbaa.css","style"]
 :HL["/_next/static/css/75fc7e897e52fce5.css","style"]
-0:{"P":null,"b":"TWJ1UX5o_xkq_C7A5AgP-","c":["","blog","qec-note-1",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","qec-note-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3441da7062753b32.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/4da48f27f83096c2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/425b5defc710ef69.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/3554c17e19c865bb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/f5207e868f667052.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/css/1506fc05182fcbaa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/75fc7e897e52fce5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
-f:I[71634,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-f44a861542726dd4.js"],"Providers"]
-10:I[34911,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],"Column"]
-11:I[56800,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","40277","static/chunks/40277-00940e670f59933b.js","80825","static/chunks/80825-ddbfbe3b35529cfd.js","35122","static/chunks/35122-e8f11e0542c41318.js","3831","static/chunks/app/blog/page-1a72b361acf062f7.js"],"SiteBackdrop"]
-12:I[15171,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-f44a861542726dd4.js"],"Header"]
-13:I[6296,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-f44a861542726dd4.js"],"RouteGuard"]
+0:{"P":null,"b":"vEt9NG54OUd1BlqeJKLKY","c":["","blog","qec-note-1",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","qec-note-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3441da7062753b32.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/34313a8bcb215d97.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/425b5defc710ef69.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/3554c17e19c865bb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/f5207e868f667052.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/css/1506fc05182fcbaa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/75fc7e897e52fce5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+f:I[71634,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-2046c57e4cf4507b.js"],"Providers"]
+10:I[34911,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],"Column"]
+11:I[56800,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","40277","static/chunks/40277-00940e670f59933b.js","82305","static/chunks/82305-59e9dfeb5b6cd569.js","38003","static/chunks/38003-6057d83847b3d178.js","3831","static/chunks/app/blog/page-48c611e200af5e3f.js"],"SiteBackdrop"]
+12:I[15171,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-2046c57e4cf4507b.js"],"Header"]
+13:I[6296,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","80691","static/chunks/51af2d27-8df24064a673f4d0.js","21928","static/chunks/dccfb526-3c9a73fefddecf7f.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","7177","static/chunks/app/layout-2046c57e4cf4507b.js"],"RouteGuard"]
 e:T7e6,
               (function() {
                 try {
@@ -64,16 +64,16 @@ e:T7e6,
                   document.documentElement.setAttribute('data-theme', 'dark');
                 }
               })();
-            2:["$","html",null,{"ref":"$undefined","className":"display-flex position-relative min-width-0 fill-width __variable_8eaea4 __variable_8eaea4 __variable_8eaea4 __variable_8c25df __variable_86297e ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"suppressHydrationWarning":true,"lang":"zh-CN","data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","meta",null,{"name":"homepage-content-revision","content":"9ede76e1d66ceba916f161f3dcd22518c99126767085354152efc5256bfb17a3"}],["$","script",null,{"id":"theme-init","dangerouslySetInnerHTML":{"__html":"$e"}}]]}],["$","$Lf",null,{"children":["$","$L10",null,{"as":"body","background":"page","fillWidth":true,"style":{"minHeight":"100vh"},"margin":"0","padding":"0","horizontal":"center","children":[["$","$L11",null,{}],["$","$L12",null,{"name":"concorde's space","tagline":""}],["$","main",null,{"ref":"$undefined","className":"display-flex position-relative flex-1 justify-center min-width-0 fill-width personal-main ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","div",null,{"ref":"$undefined","className":"display-flex position-relative justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"var(--static-space-0)","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","$L13",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L10",null,{"as":"section","fill":true,"center":true,"paddingBottom":"160","children":["$L14","$L15","$L16"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}],"$L17"]}]}]]}]
-18:I[41407,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],"Row"]
-19:I[65587,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],""]
+            2:["$","html",null,{"ref":"$undefined","className":"display-flex position-relative min-width-0 fill-width __variable_8eaea4 __variable_8eaea4 __variable_8eaea4 __variable_8c25df __variable_86297e ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"suppressHydrationWarning":true,"lang":"zh-CN","data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","meta",null,{"name":"homepage-content-revision","content":"b827ff365b582e4df1530ebcd8c278248662987766ef06c97d58ede7974981c5"}],["$","script",null,{"id":"theme-init","dangerouslySetInnerHTML":{"__html":"$e"}}]]}],["$","$Lf",null,{"children":["$","$L10",null,{"as":"body","background":"page","fillWidth":true,"style":{"minHeight":"100vh"},"margin":"0","padding":"0","horizontal":"center","children":[["$","$L11",null,{}],["$","$L12",null,{"name":"concorde's space","tagline":""}],["$","main",null,{"ref":"$undefined","className":"display-flex position-relative flex-1 justify-center min-width-0 fill-width personal-main ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","div",null,{"ref":"$undefined","className":"display-flex position-relative justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"var(--static-space-0)","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","$L13",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L10",null,{"as":"section","fill":true,"center":true,"paddingBottom":"160","children":["$L14","$L15","$L16"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}],"$L17"]}]}]]}]
+18:I[41407,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],"Row"]
+19:I[65587,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],""]
 :HL["https://arthurpesah.me/assets/img/blog/surface-code/thumbnail.png","image"]
 14:["$","span",null,{"className":"font-display font-strong font-xl mb-s","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"404"}]
 15:["$","h1",null,{"className":"font-display font-default font-xs neutral-on-background-strong mb-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Page Not Found"}]
 16:["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"The page you are looking for does not exist."}]
 17:["$","$L10",null,{"as":"footer","className":"personal-footer","fillWidth":true,"horizontal":"center","children":["$","$L18",null,{"fillWidth":true,"horizontal":"between","gap":"16","vertical":"center","s":{"direction":"column"},"className":"personal-footer-inner","children":[["$","span",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":["© ",2026," · ","concorde's space"]}],["$","span",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":["$","$L19",null,{"href":"/credits","children":"项目说明"}]}],false]}]}]
-5:["$","$L10",null,{"as":"article","className":"Personal_articlePage__tDJib","children":[["$","$L19",null,{"href":"/blog","className":"Personal_softLink__cVRqF","children":"← 所有文章"}],["$","h1",null,{"className":"font-m font-strong neutral-on-background-strong Personal_articleTitle__0nkJI","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"量子纠错入门：稳定子、错误综合征与解码"}],["$","p",null,{"className":"Personal_articleSummary__ibqQV","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"量子纠错不是直接读取未知量子态，而是通过稳定子测量检查量子态的关联是否符合编码规则。稳定子测量提供错误信息，综合征记录错误特征，解码器根据这些特征推断最可能的错误，恢复操作或 Pauli frame 则负责补偿错误。对于真实的容错量子计算，必须进一步考虑测量错误、多轮检测、解码延迟和逻辑错误率等问题。"}],["$","$L18",null,{"className":"Personal_articleMetadata__kl_Bp","children":[["$","time",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"dateTime":"2026-10-12","children":"2026.10.12"}],["$","span",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"随笔"}],["$","span",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":[21," min read"]}]]}],["$","$L10",null,{"as":"figure","className":"Personal_articleCover__7OGgZ","fillWidth":true,"horizontal":"center","marginTop":"32","children":["$","img",null,{"src":"https://arthurpesah.me/assets/img/blog/surface-code/thumbnail.png","alt":"量子纠错入门：稳定子、错误综合征与解码","decoding":"async"}]}],["$","$L10",null,{"className":"Personal_articleBody__qIflV","children":["$","$L10",null,{"className":"Markdown_body__RvQuC","children":[["$","h2","h2-0",{"id":"1-量子纠错的基本思想","children":"1. 量子纠错的基本思想"}],"\n",["$","h3","h3-0",{"id":"11-为什么需要量子纠错","children":"1.1 为什么需要量子纠错？"}],"\n",["$","p","p-0",{"children":"量子计算中的量子比特容易受到环境噪声、控制误差和测量误差的影响，导致量子态发生变化。\n常见的单量子比特 Pauli 错误包括："}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong","strong-0",{"children":"比特翻转错误"}],"：(X)，交换 ",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"0"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|0\\rangle"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣0"}],["$","span","span-2",{"className":"mclose","children":"⟩"}]]}]}]]}]," 和 ",["$","span","span-1",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"1"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|1\\rangle"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣1"}],["$","span","span-2",{"className":"mclose","children":"⟩"}]]}]}]]}],"。"]}],"\n",["$","li","li-1",{"children":[["$","strong","strong-0",{"children":"相位翻转错误"}],"：(Z)，使 ",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"1"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|1\\rangle"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣1"}],["$","span","span-2",{"className":"mclose","children":"⟩"}]]}]}]]}]," 获得一个负号。"]}],"\n",["$","li","li-2",{"children":[["$","strong","strong-0",{"children":"比特与相位同时翻转"}],"：(Y=iXZ)。"]}],"\n"]}],"\n",["$","p","p-1",{"children":"其中，Pauli 算符定义为"}],"\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e"]}]}],false,"$L8f"]}]
-f6:I[44279,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-cc71d2775aff014c.js","33818","static/chunks/33818-700532c8d7d4b917.js","95953","static/chunks/app/blog/%5Bslug%5D/page-d9216f53437cf908.js"],"JournalRow"]
+5:["$","$L10",null,{"as":"article","className":"Personal_articlePage__tDJib","children":[["$","$L19",null,{"href":"/blog","className":"Personal_softLink__cVRqF","children":"← 所有文章"}],["$","h1",null,{"className":"font-m font-strong neutral-on-background-strong Personal_articleTitle__0nkJI","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"量子纠错入门：稳定子、错误综合征与解码"}],["$","p",null,{"className":"Personal_articleSummary__ibqQV","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"量子纠错不是直接读取未知量子态，而是通过稳定子测量检查量子态的关联是否符合编码规则。稳定子测量提供错误信息，综合征记录错误特征，解码器根据这些特征推断最可能的错误，恢复操作或 Pauli frame 则负责补偿错误。对于真实的容错量子计算，必须进一步考虑测量错误、多轮检测、解码延迟和逻辑错误率等问题。"}],["$","$L18",null,{"className":"Personal_articleMetadata__kl_Bp","children":[["$","time",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"dateTime":"2026-10-12","children":"2026.10.12"}],["$","span",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"随笔"}],["$","span",null,{"className":"","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"21 min read"}]]}],["$","$L10",null,{"as":"figure","className":"Personal_articleCover__7OGgZ","fillWidth":true,"horizontal":"center","marginTop":"32","children":["$","img",null,{"src":"https://arthurpesah.me/assets/img/blog/surface-code/thumbnail.png","alt":"量子纠错入门：稳定子、错误综合征与解码","decoding":"async"}]}],["$","$L10",null,{"className":"Personal_articleBody__qIflV","children":["$","$L10",null,{"className":"Markdown_body__RvQuC","children":[["$","h2","h2-0",{"id":"1-量子纠错的基本思想","children":"1. 量子纠错的基本思想"}],"\n",["$","h3","h3-0",{"id":"11-为什么需要量子纠错","children":"1.1 为什么需要量子纠错？"}],"\n",["$","p","p-0",{"children":"量子计算中的量子比特容易受到环境噪声、控制误差和测量误差的影响，导致量子态发生变化。\n常见的单量子比特 Pauli 错误包括："}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong","strong-0",{"children":"比特翻转错误"}],"：(X)，交换 ",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"0"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|0\\rangle"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣0"}],["$","span","span-2",{"className":"mclose","children":"⟩"}]]}]}]]}]," 和 ",["$","span","span-1",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"1"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|1\\rangle"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣1"}],["$","span","span-2",{"className":"mclose","children":"⟩"}]]}]}]]}],"。"]}],"\n",["$","li","li-1",{"children":[["$","strong","strong-0",{"children":"相位翻转错误"}],"：(Z)，使 ",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"1"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|1\\rangle"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣1"}],["$","span","span-2",{"className":"mclose","children":"⟩"}]]}]}]]}]," 获得一个负号。"]}],"\n",["$","li","li-2",{"children":[["$","strong","strong-0",{"children":"比特与相位同时翻转"}],"：(Y=iXZ)。"]}],"\n"]}],"\n",["$","p","p-1",{"children":"其中，Pauli 算符定义为"}],"\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e"]}]}],false,"$L8f"]}]
+f6:I[44279,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-a8b2c1cb7ba4b342.js","37762","static/chunks/37762-3cb9b565fb13fb11.js","33818","static/chunks/33818-9ef846ace0b88276.js","95953","static/chunks/app/blog/%5Bslug%5D/page-99191f43a0b6bd8f.js"],"JournalRow"]
 1a:["$","span","span-0",{"className":"katex-display","children":["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","display":"block","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"children":"X"}],["$","mo","mo-0",{"children":"="}],["$","mrow","mrow-0",{"children":[["$","mo","mo-0",{"fence":"true","children":"("}],["$","mtable","mtable-0",{"rowspacing":"0.16em","columnalign":"center center","columnspacing":"1em","children":[["$","mtr","mtr-0",{"children":[["$","mtd","mtd-0",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"0"}]}]}],["$","mtd","mtd-1",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"1"}]}]}]]}],["$","mtr","mtr-1",{"children":[["$","mtd","mtd-0",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"1"}]}]}],["$","mtd","mtd-1",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"0"}]}]}]]}]]}],["$","mo","mo-1",{"fence":"true","children":")"}]]}],["$","mo","mo-1",{"separator":"true","children":","}],["$","mspace","mspace-0",{"width":"2em"}],["$","mi","mi-1",{"children":"Y"}],["$","mo","mo-2",{"children":"="}],["$","mrow","mrow-1",{"children":[["$","mo","mo-0",{"fence":"true","children":"("}],["$","mtable","mtable-0",{"rowspacing":"0.16em","columnalign":"center center","columnspacing":"1em","children":[["$","mtr","mtr-0",{"children":[["$","mtd","mtd-0",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"0"}]}]}],["$","mtd","mtd-1",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mrow","mrow-0",{"children":[["$","mo","mo-0",{"children":"−"}],["$","mi","mi-0",{"children":"i"}]]}]}]}]]}],["$","mtr","mtr-1",{"children":[["$","mtd","mtd-0",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mi","mi-0",{"children":"i"}]}]}],["$","mtd","mtd-1",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"0"}]}]}]]}]]}],["$","mo","mo-1",{"fence":"true","children":")"}]]}],["$","mo","mo-3",{"separator":"true","children":","}],["$","mspace","mspace-1",{"width":"2em"}],["$","mi","mi-2",{"children":"Z"}],["$","mo","mo-4",{"children":"="}],["$","mrow","mrow-2",{"children":[["$","mo","mo-0",{"fence":"true","children":"("}],["$","mtable","mtable-0",{"rowspacing":"0.16em","columnalign":"center center","columnspacing":"1em","children":[["$","mtr","mtr-0",{"children":[["$","mtd","mtd-0",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"1"}]}]}],["$","mtd","mtd-1",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"0"}]}]}]]}],["$","mtr","mtr-1",{"children":[["$","mtd","mtd-0",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mn","mn-0",{"children":"0"}]}]}],["$","mtd","mtd-1",{"children":["$","mstyle","mstyle-0",{"scriptlevel":"0","displaystyle":"false","children":["$","mrow","mrow-0",{"children":[["$","mo","mo-0",{"children":"−"}],["$","mn","mn-0",{"children":"1"}]]}]}]}]]}]]}],["$","mo","mo-1",{"fence":"true","children":")"}]]}],["$","mi","mi-3",{"mathvariant":"normal","children":"."}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"X=\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix},  \n\\qquad  \nY=\\begin{pmatrix}0&-i\\\\i&0\\end{pmatrix},  \n\\qquad  \nZ=\\begin{pmatrix}1&0\\\\0&-1\\end{pmatrix}."}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":[["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.6833em"}}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0785em"},"children":"X"}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-3",{"className":"mrel","children":"="}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2778em"}}]]}],["$","span","span-1",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"2.4em","verticalAlign":"-0.95em"}}],["$","span","span-1",{"className":"minner","children":[["$","span","span-0",{"className":"mopen delimcenter","style":{"top":"0em"},"children":["$","span","span-0",{"className":"delimsizing size3","children":"("}]}],["$","span","span-1",{"className":"mord","children":"$L90"}],"$L91"]}],"$L92","$L93","$L94","$L95","$L96","$L97","$L98","$L99"]}],"$L9a","$L9b"]}]]}]}]
 1b:["$","p","p-2",{"children":"对于未知量子态"}]
 1c:["$","span","span-1",{"className":"katex-display","children":["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","display":"block","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","mi","mi-0",{"mathvariant":"normal","children":"∣"}],["$","mi","mi-1",{"children":"ψ"}],["$","mo","mo-0",{"stretchy":"false","children":"⟩"}],["$","mo","mo-1",{"children":"="}],["$","mi","mi-2",{"children":"α"}],["$","mi","mi-3",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-0",{"children":"0"}],["$","mo","mo-2",{"stretchy":"false","children":"⟩"}],["$","mo","mo-3",{"children":"+"}],["$","mi","mi-4",{"children":"β"}],["$","mi","mi-5",{"mathvariant":"normal","children":"∣"}],["$","mn","mn-1",{"children":"1"}],["$","mo","mo-4",{"stretchy":"false","children":"⟩"}],["$","mo","mo-5",{"separator":"true","children":","}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"|\\psi\\rangle=\\alpha|0\\rangle+\\beta|1\\rangle,"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":[["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord","children":"∣"}],["$","span","span-2",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"ψ"}],["$","span","span-3",{"className":"mclose","children":"⟩"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-5",{"className":"mrel","children":"="}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.2778em"}}]]}],["$","span","span-1",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0037em"},"children":"α"}],["$","span","span-2",{"className":"mord","children":"∣0"}],["$","span","span-3",{"className":"mclose","children":"⟩"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-5",{"className":"mbin","children":"+"}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.2222em"}}]]}],["$","span","span-2",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1em","verticalAlign":"-0.25em"}}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0528em"},"children":"β"}],["$","span","span-2",{"className":"mord","children":"∣1"}],["$","span","span-3",{"className":"mclose","children":"⟩"}],["$","span","span-4",{"className":"mpunct","children":","}]]}]]}]]}]}]
@@ -191,357 +191,282 @@ f6:I[44279,["89599","static/chunks/b6ff252e-9049f483cb81fed7.js","24904","static
 8c:["$","h2","h2-9",{"id":"10-最重要的理解","children":"10. 最重要的理解"}]
 8d:["$","p","p-48",{"children":"量子纠错不是直接读取未知量子态，而是通过稳定子测量检查量子态的关联是否符合编码规则。稳定子测量提供错误信息，综合征记录错误特征，解码器根据这些特征推断最可能的错误，恢复操作或 Pauli frame 则负责补偿错误。对于真实的容错量子计算，必须进一步考虑测量错误、多轮检测、解码延迟和逻辑错误率等问题。"}]
 8e:["$","p","p-49",{"children":["$","strong","strong-0",{"children":"核心流程：编码 → 稳定子测量 → 错误综合征 → 解码 → 恢复。"}]}]
-f7:T4ed2,[系列目录](/blog/deep-learning-notes/) · [上一章](/blog/deep-learning-06-self-attention/)
+f7:T5e6e,## 概念
+量子计算(quantum computation)，核心原理：利用量子力学中的叠加、纠缠和干涉来处理信息，通过预先设计的量子操作，让正确答案的概率增大，最后测量得到计算结果。
+## 量子比特
+量子比特(qubit)是量子计算的基本信息单位，状态可以是$\vert0\rangle$ 和$\vert1\rangle$，还可以是二者的量子叠加（注意这里是指量子系统本身的波函数相干叠加，这有别于后面要讲到的混合态）:
+$$\vert \psi\rangle=\alpha\vert0\rangle+\beta\vert1\rangle$$
 
----
+这被称为是纯态量子比特(Pure State)。
+其中：$\alpha,\beta$复数，称为概率振幅，$|\alpha|^2$是测量得到0的概率，$|\beta|^2$是测量得到1的概率。并且满足归一化条件：
+$$|\alpha|^2+|\beta|^2=1$$
+我们常用布洛赫球(Bloch sphere)来表示上述量子比特，单个纯态量子比特可以表示为布洛赫球面上的一个点。球的北极和南极分别对应 $\vert0\rangle$和 $\vert1\rangle$，其他位置对应不同的叠加态。
+这里的叠加态还可以再解释一下：量子比特具有由复数振幅描述的量子态，这些振幅会在后续的计算中发生干涉，而我们事先无法得知量子比特究竟处于那种状态($\vert0\rangle$ 或$\vert1\rangle$)。
+# 2. 量子计算机的工作原理
 
-Transformer 是一个基于自注意力的序列到序列的模型，能够进行并行计算。（这是RNN的序列到序列无法做到的）
-下面从两方面介绍Transformer，
+### 1. 量子叠加
+考虑2个量子比特，它们的联合状态可以写成:
+$$\ket{\psi}=\alpha_{00}\ket{00}+\alpha_{01}\ket{01}+\alpha_{10}\ket{10}+\alpha_{11}\ket{11}$$
+这里的四个复数振幅分别描述四种基态的振幅。
+更一般的，对于$n$个量子比特，联合态可以写成:
+$$\ket{\psi}=\sum_{x=0}^{2^n-1}\alpha_x\ket{x},\,\,\,where\sum_x|\alpha_x|^2=1$$
+因此，描述一般$n$量子比特纯态需要$2^n$个复数振幅，这说明量子系统的状态空间可以随量子比特数量指数增长。
+但要注意：**量子计算机一次测量并不能把全部$2^n$个振幅读出来。 如果直接测量$n$个量子比特，得到的只是一个$n$位的经典比特串。**(具体原因主要是测量的时候，波函数坍缩，即系统会以 $\vert{}\alpha_x\vert{}^2$ 的概率随机塌缩到某一个确定的经典状态 $\vert{}x\rangle$（根据哥本哈根诠释），此外涉及信息论的一点东西，不展开来讲。)
+所以，拥有叠加态并不足够，更重要的是如何操纵这些振幅。
+### 2. 量子纠缠（量子比特之间的非经典关联）
+考虑如下的两个量子比特态(1&2)：
+$$\vert{}\Phi^+\rangle = \frac{1}{\sqrt{2}}\vert{}0\rangle_1 \vert{}0\rangle_2 + \frac{1}{\sqrt{2}}\vert{}1\rangle_1 \vert{}1\rangle_2$$
+这是著名的Bell态。
+当我们测量第一个量子比特：
++ 如果得到0，那么测量第二个量子比特也一定得到0；
++ 如果得到1，那么测量第二个量子比特也一定得到1。
+我们说：这两个量子比特之间存在无法用各自独立的纯态描述的量子关联（即我们没法把其拆成$\ket{qubit}_1\otimes\ket{qubit}_2$这样的直积态的形式），这就是纠缠。
+纠缠本身并不是超光速传递信息，也不意味着可以直接读取所有计算结果。它的作用在于**使多量子比特系统能够表示和利用经典独立比特无法完整描述的关联结构。**
+### 3. 量子干涉
+这是量子计算真正需要利用的一步。
+量子振幅是复数，不同计算路径的振幅可以相加（包括相位也可以计算）。当路径之间的相位适当时：
+- 相长干涉：振幅相加，使某些结果出现的概率增大。
+- 相消干涉：振幅抵消，使某些结果出现的概率减小，甚至降为零。
+量子算法的核心任务之一，就是设计量子操作，让不希望出现的结果相互抵消，让希望出现的结果得到增强。
+# 3. 量子计算机如何执行计算
 
-+ Transformer 的结构，即编码器，解码器，编码器-解码器注意力，
-+ Transformer 的训练过程以及序列到序列模型的训练技巧
-
-## 7.1 序列到序列模型
-
-### 7.1.1 语音识别、机器翻译与语音翻译
-
-+ 语音识别：输入是声音信号，输出是语音识别的结果，即输入的这段声音信号所对应的文字。由机器自己决定输出的长度。
-+ 机器翻译：机器输入一个语言的句子，输出另外一个语言的句子。
-+ 语音翻译：对机器说一句话，机器直接把听到的英语的声音信号翻译成中文。（主要用于没有文字的语言，如闽南语）
-
-### 7.1.2 语音合成
-
-输入文字、输出声音信号就是语音合成（Text-To-Speech，TTS）。
-
-### 7.1.3 聊天机器人
-
-文本也很广泛的使用了序列到序列模型。
-聊天机器人就是我们对它说一句话，它要给出一个回应。
-
-### 7.1.4 问答任务
-
-序列到序列模型在自然语言处理的领域的应用很广泛，而很多自然语言处理的任务都可以当作是问答（Question Answering, QA）的任务。
-就是给机器读一段文字，问机器一个问题，让机器给出一个正确答案。
-
-### 7.1.5 句法分析
-
-给机器一段文字，机器要产生一个句法的分析树，即句法树（syntactic tree）。
-在句法分析的任务中，输入是一段文字，输出是一个树状的结构，而一个树状的结构可以看成一个序列，该序列代表了这个树的结构。
-
-### 7.1.6 多标签分类
-
-多分类问题（multi-class classification）是指分类的类别数大于 2。而多标签分类是指同一个东西可以属于多个类。
-
-## 7.2 Tranformer 结构
-
-一般的序列到序列模型会分成编码器和解码器。编码器负责处理输入的序列，再把处理好的结果“丢”给解码器，由解码器决定要输出的序列。
-
-## 7.3 Tranformer 编码器
-
-编码器输入一排向量，输出另外一排向量。
-Transformer 的编码器使用的是自注意力，输入一排向量，输出另外一个同样长度的向量。
-编码器里面会分成很多的块（block），每一个块都是输入一排向量，输出一排向量给下一个块。
-每个块的结构如下。输入一排向量后做自注意力，考虑整个序列的信息，输出另外一排向量。接下来这排向量会“丢”到全连接网络网络里面，输出另外一排向量。
-
-![截屏2026-11-16 17.31.37.png](/images/notes/deep-learning/transformer-encoder.png)
-
-Transformer 里面加入了**残差连接(residual connection)** 的设计。
-
-  Step1: **残差连接** 向量 $b$ 输入到自注意力层后得到向量 $a$，$a+b$ 得到新的输出（这一步就是残差连接，融合了原始的信息和新的信息）
-
-  Step2: 层归一化(Layer Normalization) 对同一个特征，同一个样本（输入向量$x$)里面的不同维度计算均值 $m$，标准差 $\sigma$.
-
+步骤：
++ Step1. 初始化量子态（例如将所有量子比特制备为$\ket{0}$）
++ Step2. 施加量子门（通过幺正变换改变振幅与相位，建立纠缠）
++ Step3.  执行量子线路（按顺序组合单量子比特门和多量子比特门）
++ Step4. 测量并处理结果（将量子态转化为经典数据，统计多次运行的结果）
+## 1. 量子门
+量子门在理想情况下由酉矩阵 $\mathbf U$ 描述：
+$$\ket{\psi'}=U\ket{\psi},\,\,\,\,where\,U^\dagger U=I$$
+最简单的例子是Hadamard门：
+$$H=\frac{1}{\sqrt 2}\begin{pmatrix} 1 & 1 \\ 1 & -1\end{pmatrix} $$
+它将基态变成叠加态：
 $$
-x_i'=\frac{x_i-m}{\sigma}
+\begin{align*}
+H\ket{0} &= \frac{1}{\sqrt{2}}(\ket{0} + \ket{1}) \\
+H\ket{1} &= \frac{1}{\sqrt{2}}(\ket{0} - \ket{1})
+\end{align*}
 $$
+注意最后一个式子中的负号。它不会改变立即测量时$\ket{0}$和$\ket{1}$的概率，但会影响后续干涉。这正是量子计算与单纯随机抽样的关键区别之一。为了理解这一句话，我们看一个例子。
+## 2. 用一个例子理解干涉
 
-  得到向量 $x'$.
-  实际 LayerNorm 通常还有两个可学习参数：
+先对$\ket{0}$施加Hadamard门：
+$$H\ket{0} = \frac{1}{\sqrt{2}}(\ket{0} + \ket{1})$$
 
-$$
-y_i=\gamma_i z_i'+\beta_i
-$$
+然后在再施加一次:
+$$H^2\ket{0}=\frac{1}{\sqrt2}(H\ket{0}+H\ket{1})=\ket{0}$$
+第一次操作之后，测量得到$\ket{0}$或$\ket{1}$的概率都是$\frac{1}{2}$；但如果不测量，直接继续施加第二个门，最终状态又回到了$\ket{0}$。
+这是因为**两条振幅路径发生了干涉。**
+因此，量子计算不是简单地“同时计算所有答案”，而是通过量子门控制整个状态空间中的振幅演化。
 
-  其中：  $\gamma_i$：缩放参数;  $\beta_i$：平移参数。$y_i$ 是通过训练自动调整归一化之后的特征。
+# 4. 量子计算机是怎样制造出来的？
 
-   Step3: 前馈神经网络  将成归一化之后得到的向量输入进前馈神经网络，
+上述数学原理需要真实的物理系统来实现。不同技术路线选择不同的物理载体来存储和操纵量子比特。
+## 1. 中性原子量子计算
+利用激光光镊捕获单个原子，将原子的两个内部能级作为量子比特；再利用激光将原子激发到高能级的里德堡态，通过强相互作用实现纠缠和两比特门。
+核心：原子能级、光镊、激光操控、Rydberg blockade。
+## 2. 离子阱量子计算
+利用电磁场囚禁带电离子，以离子的内部能级编码量子比特，并借助激光与离子的集体振动模式实现量子门。
+核心：离子囚禁、激光冷却、振动模、离子间纠缠。
+## 3. 超导量子计算
+利用超导电路中的非线性量子振子构造量子比特，通过微波脉冲操控量子态，并利用电路耦合实现量子门。
+核心：超导电路、Josephson 结、微波控制、低温制冷。
 
-$$
-FFN(x)=W_2\cdot \mathrm{ReLU}(W_1x+b_1)+b_2
-$$
-
-  1. 第一层全连接网络对特征进行线性变换。
-  2. 通过激活函数引入非线性。
-  3. 第二层全连接网络再次变换特征。
-
-  注意：**自注意力层负责不同位置之间的信息交互，而 FFN 主要负责对每个位置的特征进行进一步加工。**
-
-  Step4: 再做一次残差连接：
-
-$$
-u=FFN(z')+z'
-$$
-
-  Step5: 再做一次层归一化
-
-$$
-\boxed{ y=LayerNorm(u) }
-$$
-
-  就得到了最后的输出。
-
-有一个可以追问的地方：
-  *为什么这里用层归一化，而不是批量归一化？*
-
-  它们的差异在于：
-  BatchNorm 是针对每个特征维度，跨不同样本计算均值和标准差。
-  LayerNorm 则是针对每一个样本，沿着特征维度计算均值和标准差。
-  而**Transformer** 的**序列长度不固定**，**经常需要处理不同大小的 Batch**，因此更加适合做层归一化。
-
-## 7.4 Transformer 解码器
-
-解码器负责根据已经理解的信息，一个字一个字地生成识别结果。
-比较常见的解码器称为自回归（autoregressive）的解码器。
-
-### 7.4.1 自回归解码器
-
-以语音识别为例
-
-1. Decoder最开始没有任何文字可以作为输入，因此要人为添加一个特殊的**词元(token)**，称为**BOS=Begin Of Sequence**，表示接下来要生成一个新的序列。每一个Token都会有对应的向量表示，可以用独热向量。
-2. 然后，把`<BOS>`输入Decoder，Decoder 结合编码器提供的声音信息，计算下一个 Token 的概率分布，选择概率最大的字作为输出。
-3. 现在 Decoder 不再只看到 `<BOS>`，而是把刚刚生成的字也作为输入。现在输入由两个
-
-   $[BOS,first\_output]$
-
-   然后预测下一个字，输出
-
-4. 不断重复前面的过程。
-
-这就是自回归过程：**当前时刻的输出，会成为下一时刻的输入。**
-数学上可以表示为：
-
-$$
-P(y_1,y_2,\ldots,y_T|H) = \prod_{t=1}^{T} P(y_t|y_1,\ldots,y_{t-1},H)
-$$
-
+下面我们将重点关注**中性原子量子计算**。
+***
+# **中性原子量子计算**
+中性原子量子计算的核心思想是：用单个原子的内部能级存储量子信息，用光镊排列和控制原子，再利用里德堡原子之间的强相互作用实现量子比特之间的纠缠。
+## 一. 一台中性原子量子计算机怎样工作？
+分成四个层次：
+1. 原子：量子信息的载体 
+   选取铷（Rb）、铯（Cs）等中性原子，用两个稳定的内部态编码一个量子比特。
+2. 光镊：量子比特的空间排列
+   用高度聚焦的激光形成微小的光学势阱，将单个原子捕获在指定位置，组成二维或一维阵列。
+3. 里德堡激发：打开原子之间的强相互作用(电磁相互作用)
+   用激光把原子从低能态激发到高主量子数（$n = 30 \sim 100$）的里德堡态，使原子间出现强烈、可控的相互作用。
+4. 量子门与测量：执行算法
+   利用单原子激光脉冲和原子间相互作用实现量子线路，最后通过荧光成像等方式读出量子比特。
+光镊主要负责空间捕获与排列，量子态的操控通常由另一套激光或微波系统完成。
+## 二. 激光为什么能捕获一个中性原子？
+一个显然的问题：既然原子是电中性的，那为什么激光可以将其困住？
+答案：**原子虽然整体不带电，但电场仍然可以诱导原子产生电偶极矩，进而对原子施加力。**
+### 1.  光场会诱导原子产生偶极矩
+考虑一个简化的原子模型，原子内部的电子云可以在外部电场的作用下发生偏移，从而诱导偶极矩：
+$$\mathbf p= \alpha\mathbf E$$
 其中：
-
-- $H$：编码器输出。
-- $y_t$：第 $t$ 个生成的 Token。
-- $y_1,\ldots,y_{t-1}$：之前已经生成的 Token。
-
-我们从这个公式就能看出一个问题，如果前面预测错误，可能影响后面的预测。这就叫**误差传播（Error Propagation）**（错误并不一定会导致后续全部错误，有时模型也能根据编码器提供的声音信息纠正之前的偏差）
-
-Transformer 里面的解码器内部的结构，也有多头注意力、残差连接和层归一化、前馈神经网络。解码器最后再做一个 softmax，使其输出变成 一个概率。
-
-![截屏2026-11-16 20.21.01.png](/images/notes/deep-learning/transformer-decoder.png)
-
-此外，解码器还使用了**掩蔽自注意力(masked self-atttion)**，通过一个**掩码（mask）** 来阻止当前位置关注它右边的未来位置。（防止机器作弊）
-
-具体来说：
-  现在假设我们正在计算第二个位置 $b_2$。
-  首先计算注意力分数：$q_2k_1^T,\quad q_2k_2^T, \quad q_2k_3^T,\quad q_2k_4^T$
-  但我们不希望它关注 $a_3,a_4$，所以在 Softmax 之前加上掩码：
-
-$$
-Attention(Q,K,V) = Softmax\left( \frac{QK^T}{\sqrt{d_k}}+M \right)V
-$$
-
-  其中 $M$ 是掩码矩阵。
-  例如：
-
-$$
-M= \begin{bmatrix} 0&-\infty&-\infty&-\infty\\ 0&0&-\infty&-\infty\\ 0&0&0&-\infty\\ 0&0&0&0 \end{bmatrix}
-$$
-
-   $e^{-\infty}=0$，所以经过 Softmax 以后，被屏蔽位置的注意力权重就变成了 0。
-  因此，计算第二个位置时：
-
-$$
-b_2=\alpha_{21}v_1+\alpha_{22}v_2
-$$
-
-  不会再出现 $v_3,v_4$，权重为0相当于不存在。
-
-我们最后还需要一个 `<EOS>` 来让模型停下来。
-
-### 7.4.2 非自回归解码器
-
-非自回归模型：一次性准备好所有位置，让模型并行预测。相当于一个并行输出。
-例如，我们希望输出：$\text{机器学习}$
-假设输出长度为 4。
-我们一次性输入四个 BOS：
-
-$$
-[BOS,BOS,BOS,BOS]
-$$
-
-经过 Decoder 后，同时得到四个位置的输出。
-数学模型为：
-
-$$
-P(Y|X)= \prod_{t=1}^{T}P(y_t|X)
-$$
-
-这就带来一个问题：*怎么确定输出长度？*
-因为一次性输出整个序列，事先必须知道准备多少个位置。
-有两种方法：
-
-1. 在编码器后面增加一个分类器（Length Predictor）。分类器根据编码器的输出预测目标序列长度。预测概率公式为
-
-   $P(T=t|X)$
-
-   其中 $T$ 表示输出序列长度。模型选择概率较大的长度作为预测结果。
-
-2. 直接准备一个固定的最大长度
-
-非自回归模型性能往往不如自回归模型，原因：
-
-1. $P(Y|X)=\prod_t P(y_t|X)$
-
-   意味着：在给定输入 $X$ 后，各个位置的输出被假设为条件独立。但事实上一些输出之间存在很强的关联性，而这里并不能很好地利用。
-
-2. 多个位置可能会出现语意上不一致的预测，即几个位置单独来看可能都有一定概率，但组合起来就不合理。
-
-这实际上是深度学习中一个很典型的权衡：
-
-$$
-\boxed{ \text{生成速度}\quad\longleftrightarrow\quad \text{序列依赖建模能力} }
-$$
-
-非自回归模型牺牲了一部分显式的序列依赖关系，换取并行计算能力。这也是为什么研究者一直在努力提高它的生成质量。
-
-## 7.5 编码器-解码器注意力
-
-编码器和解码器通过编码器-解码器注意力（encoder-decoder attention）传递信息，这是连接编码器和解码器的桥梁。解码器中编码器-解码 器注意力的键和值来自编码器的输出，查询来自解码器中前一个层的输出。
-
-实际运作过程：
-
-  在 Transformer 的 Encoder-Decoder 架构中，编码器首先将输入序列转换为一排向量 $a_1,a_2,a_3$，解码器则通过**交叉注意力机制（Cross-Attention）** 从这些向量中提取信息。具体来说，解码器首先输入 `<BOS>`，经过掩蔽自注意力得到一个隐藏状态，并通过线性变换生成查询向量 $q$。同时，编码器输出的每个向量分别经过线性变换，生成对应的键$k_1,k_2,k_3$ 和值$v_1,v_2,v_3$。接着，解码器将查询向量 $q$ 与所有键计算注意力分数，再经过 Softmax 得到注意力权重 $\alpha'_1,\alpha'_2,\alpha'_3$，最后利用这些权重对值加权求和，得到交叉注意力的输出：
-
-$$
-v=\alpha'_1v_1+\alpha'_2v_2+\alpha'_3v_3
-$$
-
-  这个输出再交给后续的全连接网络等模块进行处理，最终预测下一个 Token。当解码器生成第一个字后，会将  `<BOS>` 和它作为输入，重新计算隐藏状态和查询向量 $q'$，再与编码器的 Key 计算注意力分数，并对 Value 进行加权求和，得到新的输出 $v'$。因此，**解码器在生成每一个 Token 时，都会根据当前已经生成的内容，重新计算注意力权重，从编码器输出中提取当前最需要的信息**，从而逐步完成整个序列的生成。
-
-## 7.6 Transformer 的训练过程
-
-假设输入的声音信号是“机器学习”，模型需要将其转换成四个中文字：“机”“器”“学”“习”。
-编码器首先对声音信号进行处理，解码器则负责逐个预测输出的 Token。
-
-解码器每次输出的是一个概率分布，例如第一次输出一个关于整个词表的概率分布，模型希望其中“机”的概率最大，使这个分布尽可能接近正确答案“机”的独热向量。我们使用交叉熵损失函数衡量预测结果与正确答案之间的差距。
-
-由于每次预测一个中文字都相当于进行一次分类任务，因此整个训练过程实际上包含多次分类：第一次预测“机”，第二次预测“器”，第三次预测“学”，第四次预测“习”，第五次预测 `<EOS>`。训练时，模型会将每个位置的预测结果与对应的正确答案计算交叉熵，再将所有位置的损失加起来（或取平均），作为整个序列的训练损失。
-
-这里有一个重要特点：**训练时，解码器的输入使用的是正确答案，而不是模型自己上一步预测的结果**。具体来说，第一次输入 `<BOS>`，希望模型预测“机”；第二次输入 `<BOS>`、“机”（而不是第一次预测出来的结果），希望模型预测“器”；依此类推，直到输入 `<BOS>`、“机”、“器”、“学”、“习”，希望模型预测 `<EOS>`。这种在训练过程中直接将正确答案提供给解码器作为后续输入的方式，就是所谓的为**教师强制（Teacher Forcing）**。
-
-它能够让模型在训练时始终基于正确的历史序列学习如何预测下一个 Token，而不必受到前面预测错误的干扰。
-当然，这个只能在训练的时候用，真实测试的时候没有。
-
-## 7.7 序列到序列模型训练常用技巧
-
-### 7.7.1 复制技巧
-
-copy mechanism.
-解码器不一定要完全依靠自身从词表中生成文字，也可以直接从输入序列中复制某些内容作为输出。
-
-例如，在聊天机器人中，用户输入“你好，我是库洛洛”，模型需要回答“库洛洛你好，很高兴认识你”。对于模型而言，“库洛洛”可能是一个非常罕见、甚至从未在训练数据中出现过的词汇，因此仅依靠词表预测可能很难准确生成。而通过复制机制，模型可以直接从用户输入中找到“库洛洛”并复制到输出中。这样，模型需要学习的就不再是如何创造这个陌生词汇，而是判断输入中的哪些内容值得复制，以及应该在输出的什么位置使用它。
-
-在文本摘要任务中，复制机制也非常重要，因为摘要往往会直接保留原文中的关键词、人名、专业术语等内容。如果完全依靠模型从词表中重新生成这些词汇，不仅难度较大，也容易出现遗漏或错误。因此，允许模型从原文中直接复制信息，可以提高输出的准确性和可靠性。早期具有这种从输入中选择并复制内容能力的模型包括**指针网络（Pointer Network）**，后来又发展出了**复制网络（Copy Network）** 等变体。
-
-### 7.7.2 引导注意力
-
-**Guided Attention**
-利用任务本身已有的先验知识，对注意力机制施加约束，让模型按照合理的顺序关注输入信息。
-
-例如，在语音合成（TTS）任务中，输入是一段文字，输出是一段语音。假设输入文字是“发财”，模型应该先根据“发”生成对应的语音，再根据“财”生成对应的语音，注意力应该随着生成过程从左向右移动。如果模型训练得不好，就可能出现注意力混乱的情况，例如输入“发财”时只念出“财”，或者生成语音时遗漏某些文字。尤其是对于“发财”这种很短的句子，如果训练数据中类似样本比较少，普通的序列到序列模型可能难以学到稳定的对应关系。
-
-对于语音识别（ASR）和语音合成这类任务，我们通常可以提前知道输入与输出之间应该具有大致的顺序对应关系：输入序列的前面部分应该对应输出序列的前面部分，输入序列的后面部分应该对应输出序列的后面部分。因此，可以在训练过程中加入这种先验约束，要求注意力权重整体上按照从左向右的顺序移动，避免模型随意跳过输入位置或反复关注不合理的位置。这种利用任务先验知识来引导注意力分布的方式，就称为**引导注意力（Guided Attention）**。
-
-### 7.7.3 束搜索
-
-解码器每次都选择当前概率最高的 Token，最终得到的整个句子就一定是最好的吗？答案是不一定。
-
-**贪心搜索**：**每一步只考虑当前最优选择，不考虑这个选择对后续生成的影响。**
-
-但这并不一定最优，关键在于，序列生成是一个具有连续依赖关系的过程。当前选择的 Token 会影响后续 Token 的概率分布。
-
-**局部最优不一定带来全局最优**
-
-**穷举搜索（Exhaustive Search）**
-把所有可能的生成路径都尝试一遍，然后选择整体概率最高的路径。
-计算量太大
-
-我们采取折中的手段：**束搜索（Beam Search）**
-**每一步不只保留概率最高的一个候选，而是保留若干个候选路径，继续向后搜索。**
-例如，设置束宽（Beam Width）为 2：
-
-1. 第一步，保留概率最高的两个候选 Token，例如 A 和 B。
-2. 第二步，分别从 A 和 B 出发，扩展各自可能的后续 Token。
-3. 将所有扩展路径放在一起比较，只保留整体分数最高的两条路径。
-4. 重复这个过程，直到生成结束。
-
-**束搜索有时会产生重复句子**，原因在于：束搜索倾向于寻找模型概率最高的序列，但模型的概率分布不一定与人类对语言质量的评价一致。
-
-### 7.7.4 加入噪声
-
-**在解码阶段加入噪声（Noise Injection）**
-
-具体来说，普通的机器学习训练通常会在训练阶段加入噪声或数据扰动，让模型接触更多变化，提高鲁棒性；而测试阶段则希望模型根据学到的规律，稳定地输出结果。然而，语音合成有一个特殊问题：模型按照概率分布选择最可能的输出，不一定能产生最自然的人声。例如，模型可能倾向于选择某种过于确定、单调的发音模式，导致合成语音听起来不够自然，甚至出现机械感。因此，在测试时也加入适当的随机噪声，让解码器的生成过程具有一定随机性，有时反而能产生更自然、更接近真实人类语音的结果。
-
-这里涉及一个重要区别：**概率意义上的最优输出，不一定等于人类感知上最好的输出。** 模型通常通过训练目标优化预测概率或重建误差，但人类评价语音时，还会关注语调、节奏、韵律和自然程度。两者的评价标准并不完全一致。因此，在语音合成或句子生成任务中，适当引入随机性，有时能够避免模型陷入过于僵硬的生成模式。
-
-### 7.7.5 使用强化学习训练
-
-BLEU（Bilingual Evaluation Understudy）最初用于评价机器翻译的质量。它不是逐个 Token 地判断预测是否正确，而是将模型生成的完整句子与人工提供的参考答案进行比较，评价两者在词汇和短语上的匹配程度。
-
-**交叉熵与 BLEU 会产生矛盾**
-问题在于：**训练时优化的目标，与最终评价模型好坏的标准并不一致。**
-
-所以，训练时通常使用交叉熵，而在验证集上则可以使用 BLEU 选择最终模型。
-
-但是传统 BLEU 的计算过程包含离散的 Token 匹配、计数和截断等操作，难以给出一个有用的、可微的梯度，告诉模型应该怎样调整参数，不能直接作为普通反向传播训练中的损失函数。
-
-我们引入**强化学习（Reinforcement Learning）**。
-把评价指标当成奖励（Reward），通过强化学习的方法优化模型生成序列的策略。
-具体过程如下：
-
-1. 解码器根据当前状态生成一个 Token。
-2. 将生成的 Token 作为下一步输入，继续生成。
-3. 直到生成完整句子。
-4. 将完整句子与标准答案比较，计算 BLEU 分数。
-5. 将 BLEU 分数作为奖励，利用强化学习更新解码器的参数，使模型以后更倾向于生成高 BLEU 分数的句子。
-
-例如，使用策略梯度方法时，可以通过 REINFORCE 算法更新策略。其基本形式是：
-
-$$
-\nabla_\theta J(\theta) = \mathbb{E}\left[ R(Y)\nabla_\theta\log P_\theta(Y|X) \right]
-$$
-
+- $\mathbf p$是诱导电偶极矩；
+- $\alpha=\alpha(\omega_L)$是原子的极化率(复数）；
+- $\mathbf E$ 是激光电场。
+在激光场中，原子与电场之间的相互作用会形成一个与光强有关的偶极势。对常见的远失谐($|\Delta|\ll\omega_0$、近似两能级原子模型，可以写成（具体推导看原子物理教材）
+$$U_{dip}(\mathbf r)\simeq \frac{3\pi c^2}{2\omega_0^3} \frac{\Gamma}{\Delta}I(\mathbf r)$$
+这里采用$\Delta=\omega_L-\omega_0$的失谐定义；$I(\mathbf r)$ 是光强，$\Gamma$是自然线宽，$\omega_0$是原子跃迁的角频率，$\omega_L$ 表示激光的角频率。
+有两种情况需要考虑：
++ 红失谐激光，即 $\Delta<0$，因此$U_{dip}(\mathbf r)<0$，形成吸引势，原子趋向光强最大的位置。
++ 蓝失谐激光，即 $\Delta>0$，因此$U_{dip}(\mathbf r)>0$，形成吸引势，原子趋向光强较低的位置。
+因此，把一束激光聚焦到很小的区域，就可以形成一个微观势阱。
+### 2. 什么是光镊(optical tweezer) ?
+考虑一束按照高斯分布的激光，其光强可以写成
+$$I(\mathbf r)=I_0e^{-2r^2/\omega_0^2}$$
+其中，$\omega_0$是光束腰(Beam Waist)半径。
+对于红失谐光镊，势能在光束中心最低，因为$U(r)\propto -I(r)$ ，
+在中心附近($r\ll \omega_0$)做泰勒展开，得到$U(r) \approx -U_0 + \frac{2r^2}{w_0^2} U_0$，
+这显然是一个谐振子势阱，原子受到恢复力$$\mathbf F=-\nabla U(\mathbf r)=-\frac{4U_0}{\omega_0^2}\mathbf r=-k_{eff}\mathbf r$$指向中心，因此，原子会被限制在势阱附近做小振动。
+这就相当于一个镊子能移动原子。
+需要注意，此时原子并非完全固定不动。原子仍有热运动和量子零点（真空零点能$\frac{1}{2}\hbar\omega$）运动，因此实验上通常先用磁光阱捕获并冷却原子，再将它们装载到光镊中。
+### 3. 怎样用一束激光得到几百个光镊？
+实验中可以使用空间光调制器（SLM）或声光偏转器（AOD），控制激光的空间分布和传播方向，形成大量聚焦光斑。
+每个光斑都可以看成一个独立的微型势阱。
+名词介绍：
+1. **空间光调制器（Spatial Light Modulator，简称 SLM）** 是一种能够对光波的**振幅（强度）、相位、偏振态或传播方向**进行空间二维分布动态调控的数字光学器件。
+2. **声光偏转器/调制器（Acousto-Optic Deflector / Modulator，简称 AOD / AOM）** 是利用**声光效应（Acousto-Optic Effect）** 实现对激光束偏转方向、频率、强度和相位进行高速精确控制的光介质器件。
+实验上一般用 SLM 生成大型静态光镊阵列，捕获原子（填满率约 50%）。再利用 2D AOD 产生可快速移动的动态光镊，在微秒尺度上抓取单个原子并将其移动到空缺位置，重新排列出无缺陷的理想量子比特阵列。
+实际装载通常不是每个光镊都恰好捕获一个原子。实验人员会通过荧光成像识别哪些位置有原子，再利用可移动光镊重新排列原子，得到接近满填充的阵列。
+这样，空间排列就对应着量子比特的排列：
+
+$$\text{第 }i\text{ 个光镊} \longleftrightarrow \text{第 }i\text{ 个原子} \longleftrightarrow \text{第 }i\text{ 个量子比特}$$
+## 三. 怎样把一个原子变成量子比特？
+有了可操控的原子之后，我们需要用它来存储量子信息。
+### 1. 原子的内部能级非常丰富
+以常见的$Rb$原子为例，其内部状态包含：
++ 电子能级；
++ 核自旋与电子角动量耦合形成的超精细能级；
++ 外部磁场下进一步分裂的磁子能级。
+并不是所有这些能级都拿来存储量子信息。实验人员会选出两个适合长期存储和精确操控的状态，定义为
+$$\ket{0},\,\,\ket{1}$$
+在许多中性原子实验中，$\ket{0}$和$\ket{1}$选自电子基态的两个超精细态。
+Q：为什么不选择激发态呢？
+A：因为量子信息需要被保存足够长的时间。合适的基态超精细态通常比较稳定，能够降低自发辐射造成的信息损失。
+### 2. 怎样操控这两个能级呢？
+两个能级之间存在能量差：
+$$E_1-E_0=\hbar \omega_q$$
+因此可以利用频率匹配的微波（驱动场），或者合适的双光子拉曼跃迁，操控它们之间的相干叠加（受激跃迁）。
+在旋转参考系中，一个典型的有效哈密顿量为
+$$H_q=\frac{\hbar\Omega}{2}\begin{pmatrix}0 &e^{-i\phi}\\e^{i\phi}&0\end{pmatrix}$$
+这里$\Omega$是有效Rabi频率，$\phi$是驱动场的相位。该哈密顿量会驱动量子态发生周期性的Rabi振荡。
+再施加持续时间为$t$的共振脉冲（可以精确控制），就相当于在布洛赫球上旋转量子态，旋转角度为
+$$\theta=\Omega t$$
+例如，合适的$\pi$脉冲可以将$\ket{0}$和$\ket{1}$互换，$\pi/2$脉冲则可以把基态变成等权叠加态($1/2\ket{0}+1/2\ket{1}$)。
+这里我们要精确控制跃迁的幅度，持续时间和相位。
+## 四. 为什么我们还需要里德堡态？
+上面我们已经可以用激光和微波来控制每个原子，但是存在一个问题：**两个相距几微米的中性原子，怎样发生相互作用，才能对彼此的量子态进行计算？**
+里德堡态正是解决了两个普通基态原子间的相互作用不足以实现快速可控的纠缠门的问题。
+### 1. 什么是里德堡原子呢？
+里德堡原子是指原子中的价电子被激发到很高的主量子数$n$对应的束缚态。
+对于类氢近似来说(只有一个核外电子的状态)，此时原子的能级可以近似为
+$$E_n \approx -\frac{Ry}{n^2}$$
+其中$Ry$是相应的里德堡能量常数($-13.6eV$，氢原子基态能量)。
+电子轨道尺度近似为
+$$r_n\sim a_0n^2$$
+其中$a_0$是玻尔半径。我们能看出轨道半径按$n^2$量级增大，因此里德堡态具有很大的电子云空间尺度，能表现出非常强的电偶极响应和原子间相互作用。
+### 2. 为什么里德堡原子有极强的相互作用呢？
+主要是两个里德堡态的原子之间的电偶极相互作用。
+在常见的范德瓦尔斯相互作用区间，势能可以近似写成
+$$V_{rr}(R)=\frac{C_6}{R^6}$$
 其中：
+- $R$是两个原子之间的距离;
+- $C_6$是与所选里德堡态、角动量和外部场有关的相互作用系数。
+和普通态原子的主要差异在于：里德堡态有巨大的相互作用系数
+（$C_6$ 随主量子数 $n$ 呈 11 次方增加，具有极高的极化率），因此**哪怕原子之间相隔几微米，也能够产生足以显著改变原子激发条件的强相互作用**。
+这里需要注意一个空间尺度的问题：
+- **里德堡电子的轨道半径 ($r_n$)**：比如主量子数 $n=60$ 时，电子轨道半径大概是几百纳米（$\sim 0.3\,\mu\text{m}$）。
+- **原子间的距离 ($R$)**：在实验中（比如光镊阵列），两个原子之间的中心距通常保持在几微米（$\sim 3 - 5\,\mu\text{m}$）。
+## 五. 里德堡阻塞(Rydberg blockade)
+这一步是中性原子量子计算中最值得深入理解的内容。它解释了为什么两个原子之间的相互作用能够变成一个量子逻辑门。
+### 1. 两个原子同时激发，会发生什么？
+考虑两个距离为$R$的原子，我们只关注每个原子的三种状态：
++ $\ket{0}$: 不参与里德堡激发的计算态；
++ $\ket{1}$: 可以被激光耦合到里德堡态的计算态；
++ $\ket{r}$: 里德堡态。
+当我们用激光驱动$\vert{}1\rangle \leftrightarrow \vert{}r\rangle$跃迁时：
++ **远距离情况**：如果两个原子彼此相距较远，它们可以近似独立地接受激发，系统中便可能出现双里德堡态 $\vert{}r\rangle_1 \vert{}r\rangle_2$。
++ **近距离情况**：如果两个原子靠得足够近，同时激发到 $\vert{}r\rangle \vert{}r\rangle$ 态会因为彼此间的强烈排斥而付出巨大的“能量惩罚”（Energy Penalty）。导致双里德堡态的能量会发生显著偏移：$$E_{rr} = E_r^{(1)} + E_r^{(2)} + V_{rr}(R)$$ (其中 $V_{rr}(R)$ 即为额外的相互作用能量惩罚项)。
+   当这个相互作用能远大于激光驱动能够有效提供的能量尺度时，双激发过程就会发生严重失谐，激光的频率和光子能量将不再匹配双激发的跃迁条件。因此，**如果一个原子已经处于里德堡态，另一个原子就很难再被激发到同一里德堡态**。这就是里德堡阻塞。
+### 2.阻塞条件是什么？
+设激光驱动的 Rabi 频率为 $\Omega$，双里德堡态相互作用能为 $V_{rr}(R)$。一个常见的阻塞条件是
+$$|V_{rr}(R)|\gg\hbar\Omega$$
+这里 $\hbar\Omega$是激光耦合对应的能量尺度。
+如果采用范德瓦耳斯相互作用模型
+$$|V_{rr}(R)|=\frac{|C_6|}{R^6}$$
+那么阻塞半径的数量级可以定义为
+$$R_b\sim \left(\frac{|C_6|}{\hbar\Omega}\right)^{1/6}$$
+当原子间距 $R$ 明显小于这个尺度时，双激发通常会被有效抑制。
+需要注意，阻塞并不是严格禁止第二个原子激发，而是当相互作用引起的能量偏移足够大时，使第二次激发的概率显著降低。
+### 3. 为什么阻塞能够产生纠缠？
+考虑两个原子的计算态$\ket{11}$。
+如果没有相互作用，两个原子受到激光驱动时可以独立演化；但有了里德堡阻塞，一个原子的激发过程会改变另一个原子的可用激发路径。于是，两个原子的联合演化不再是两个独立单原子操作的简单乘积。
+换言之：
+$$U_{12} \ne U_1 \otimes U_2$$
+在合适的激光脉冲序列下，这种非独立演化能够产生纠缠态。
+这就是从原子间相互作用到量子逻辑门的桥梁。
+## 六. 真正的两比特量子门
 
-- $X$：输入序列。
-- $Y$：模型生成的完整序列。
-- $R(Y)$：生成序列得到的奖励，例如 BLEU。
-- $\theta$：模型参数。
+现在我们来具体看一套常见方案：受控相位门（CZ gate）。
+CZ 门的作用是：
+$$
+\ket{00}\rightarrow \ket{00} \\ \ket{01}\rightarrow \ket{01} \\ \ket{10}\rightarrow \ket{10} \\ \ket{11}\rightarrow -\ket{11}
+$$
+它给$\ket{11}$这个分量增加一个负号，成为能产生纠缠的两比特门。
+### 1. 三步脉冲序列设计
+实现受控相位门（CZ 门）最经典、最优雅的方案之一是 **Jaksch 协议**（即著名的**三步激光脉冲序列**）
+我们对控制原子（Control，简称 $C$）和目标原子（Target，简称 $T$）依次施加以下三步激光脉冲：
+1. **第一步**：对控制原子 ($C$) 施加一个 $\pi$ 脉冲（驱动 $\vert{}1\rangle \leftrightarrow \vert{}r\rangle$）
+2. **第二步**：对目标原子 ($T$) 施加一个 $2\pi$ 脉冲（驱动 $\vert{}1\rangle \leftrightarrow \vert{}r\rangle$）
+3. **第三步**：对控制原子 ($C$) 再次施加一个 $\pi$ 脉冲（驱动 $\vert{}1\rangle \leftrightarrow \vert{}r\rangle$）
+*(注：在量子力学中，一个共振的 $\pi$ 脉冲会使布居数发生翻转，并引入 $-i$ 的相位；而一个完整的 $2\pi$ 脉冲会让系统完成一个完整的Rabi振荡周期，产生 $-1$ 的几何相位)*。
+### 2. 四个计算基态的详细演化计算
+#### 1. 态 $\vert{}00\rangle$（两原子均处于 $\vert{}0\rangle$）
+- **演化过程**：两个原子都处于不参与激发的基态 $\vert{}0\rangle$，激光对它们完全“透明”。
+- **结果**：没有任何跃迁发生，态保持为 **$\vert{}00\rangle$**。
+#### 2. 态 $\vert{}10\rangle$（控制原子为 $\vert{}1\rangle$，目标原子为 $\vert{}0\rangle$）
+- **第一步（$C$ 施加 $\pi$ 脉冲）**：控制原子被激发到里德堡态，$\vert{}10\rangle \rightarrow -i \vert{}r0\rangle$。
+- **第二步（$T$ 施加 $2\pi$ 脉冲）**：目标原子处于 $\vert{}0\rangle$，不响应激光，状态不变，依然是 $-i \vert{}r0\rangle$。
+- **第三步（$C$ 施加 $\pi$ 脉冲）**：控制原子掉回计算态：$(-i)(-i)\vert{}10\rangle = -\vert{}10\rangle$。
+- **结果**：该分量最终获得一个 $-1$ 相位，变为 **$-\vert{}10\rangle$**。
+#### 3. 态 $\vert{}01\rangle$（控制原子为 $\vert{}0\rangle$，目标原子为 $\vert{}1\rangle$）
+- **第一步（$C$ 施加 $\pi$ 脉冲）**：控制原子处于 $\vert{}0\rangle$，不受影响，保持 $\vert{}01\rangle$。
+- **第二步（$T$ 施加 $2\pi$ 脉冲）**：目标原子完成一个完整的 $2\pi$ 拉比振荡，根据量子力学，完整的一圈演化会带来一个 $-1$ 的相位（$-1\vert{}01\rangle$）。
+- **第三步（$C$ 施加 $\pi$ 脉冲）**：控制原子不受影响。
+- **结果**：该分量最终变为 **$-\vert{}01\rangle$**。
+#### 4. 态 $\vert{}11\rangle$（两原子均处于 $\vert{}1\rangle$ —— 核心关键步）
+- **第一步（$C$ 施加 $\pi$ 脉冲）**：控制原子成功被激发：$\vert{}11\rangle \rightarrow -i \vert{}r1\rangle$。
+- **第二步（$T$ 施加 $2\pi$ 脉冲）**：**里德堡阻塞在此崭露！** 因为控制原子此时已经处于里德堡态 $\vert{}r\rangle$，它产生的巨大相互作用能（能量惩罚 $V_{rr}$）把目标原子的里德堡能级“顶飞”了，导致激光严重失谐。因此，目标原子的 $2\pi$ 脉冲被**完全阻塞（Blocked）**，无法有效激发，它在这一步**没有获得任何额外的相位**，状态停留在 $-i \vert{}r1\rangle$。
+- **第三步（$C$ 施加 $\pi$ 脉冲）**：控制原子掉回计算态：$(-i)(-i)\vert{}11\rangle = -1\vert{}11\rangle$。
+- **结果**：结合第二步被阻塞的特性，该分量最终净相位为 $+1$，态保持为 **$-\vert{}11\rangle$**。
+#### 5. 最后的操作
+经过上述三步后，系统的演化矩阵输出为：
+- $\ket{00}\rightarrow\ket{00}$
+- $\ket{01}\rightarrow-\ket{01}$
+- $\ket{10}\rightarrow-\ket{10}$
+- $\ket{11}\rightarrow-\ket{11}$
+这与标准的 CZ 门（仅 $\ket{11}$变号，其余不变）相差一点。
+**最后一步操作**： 我们在脉冲结束后，对两个原子各自施加一个简单的**单比特 Z 旋转（局域相位修正）**：
+- 这会把$\ket{10}$和$\ket{01}$前面的多余负号抵消。
+- 同时，$-\ket{11}$由于负负得正不变。
+此时我们就得到了标准的CZ门！
+## 七. 量子比特最后怎样被读出来？
+计算完成后，需要将量子态转化成经典信息。
+中性原子平台常见的方法是荧光成像。实验人员向原子照射特定频率的光，再用高数值孔径物镜和相机收集荧光。
+一种常见的态选择性读出方案是：
+- 某个计算态能够参与循环跃迁，产生明显荧光；
+- 另一个计算态被设计成不参与相同的循环跃迁，或者在成像过程中被移出陷阱。
+于是，相机图像上的亮点和暗点就能帮助判断原子所处的计算态。实际的亮暗对应关系取决于具体的能级编码和读出方案。
+由于单次测量只能得到一个经典结果，实验人员通常会重复执行相同的量子线路多次，通过统计结果估计测量概率。
+例如，假设重复运行 1000 次，其中约 700 次测量得到某个结果，那么该结果的概率估计约为 0.7。
 
-这里利用生成序列的概率分布来估计策略梯度。
+## 八、真正困难的地方在哪里？
 
-### 7.7.6 计划采样
+理解原理之后，还需要认识到实验上有几个重要瓶颈。
 
-在 Transformer Decoder 的训练过程中，我们使用教师强制，但在测试过程中，模型没有标准答案，只能把自己上一步生成的结果作为下一步的输入。
+|挑战|物理原因|解决思路|
+|---|---|---|
+|量子态退相干|环境噪声、磁场波动、激光相位噪声|磁场稳定、激光锁频、优化编码|
+|两比特门误差|阻塞不完全、脉冲误差、原子运动|优化脉冲、增大合适的阻塞能、降低运动影响|
+|原子丢失|装载和操控过程中的原子损失|重排、补充原子、提高装载效率|
+|激光控制复杂|多束激光的频率、相位、强度需要精确控制|稳定激光系统、自动化校准|
+|规模扩展|原子数增加后，控制与读出复杂度随之增加|可扩展光学系统、并行控制与量子纠错|
 
-这就是曝光偏差：**模型训练时只接触正确的历史输入，但测试时却必须面对自己生成的、可能包含错误的历史输入。**
-
-那么既然模型在测试时会看到自己生成的错误，那么能不能在训练时也让它偶尔看到错误？
-这就是**计划采样**的想法。
-具体而言：
-
-- 有时使用标准答案作为下一步输入。
-- 有时使用模型自己生成的 Token 作为下一步输入。
-- 让模型逐渐适应可能出现的错误上下文。
-8f:["$","$L10",null,{"as":"aside","marginTop":"48","children":[["$","span",null,{"className":"Personal_eyebrow__ZKe3q mb-16","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"KEEP READING"}],[["$","$Lf6","deep-learning-notes",{"entry":{"slug":"deep-learning-notes","title":"深度学习学习笔记 · 系列目录","date":"2026-11-16","category":"技术","summary":"从机器学习基础到 Transformer，共七章学习笔记。","cover":"","sample":false,"sections":[{"title":"","text":""}],"sourceName":"深度学习学习笔记目录.md","markdownAssets":[],"markdown":"| 章节 | 学习内容 |\n| --- | --- |\n| [第 1 章：机器学习基础](/blog/deep-learning-01-machine-learning/) | 模型、损失函数、梯度下降、激活函数与神经网络 |\n| [第 2 章：实践方法论](/blog/deep-learning-02-methodology/) | 模型偏差、优化问题、过拟合、交叉验证与分布不匹配 |\n| [第 3 章：深度学习基础](/blog/deep-learning-03-fundamentals/) | 鞍点、动量、自适应学习率、分类损失与批量归一化 |\n| [第 4 章：卷积神经网络](/blog/deep-learning-04-cnn/) | 感受野、参数共享、卷积、汇聚与 AlphaGo 示例 |\n| [第 5 章：循环神经网络](/blog/deep-learning-05-rnn/) | RNN 架构、LSTM、梯度问题与序列到序列应用 |\n| [第 6 章：自注意力机制](/blog/deep-learning-06-self-attention/) | QKV、多头注意力、位置编码与 CNN、RNN 对比 |\n| [第 7 章：Transformer](/blog/deep-learning-07-transformer/) | 编码器、解码器、交叉注意力与序列训练技巧 |\n\n[查看 GitHub 版本](https://github.com/concorde-blade/ai-math-discussion/tree/main/notes/deep-learning)\n"}}],["$","$Lf6","deep-learning-07-transformer",{"entry":{"slug":"deep-learning-07-transformer","title":"第 7 章：Transformer","date":"2026-11-16","category":"技术","summary":"编码器、解码器、交叉注意力与序列训练技巧","cover":"","sample":false,"sections":[{"title":"","text":""}],"markdown":"$f7","sourceName":"Chap7 Transformer.md","markdownAssets":[{"name":"assets/transformer-encoder.png","src":"/images/notes/deep-learning/transformer-encoder.png"},{"name":"assets/transformer-decoder.png","src":"/images/notes/deep-learning/transformer-decoder.png"}]}}]]]}]
+其中尤其值得关注的是：提高里德堡相互作用并不意味着所有误差都会自动下降。高激发态通常对电场噪声更敏感，而且里德堡态具有有限寿命。因此，实验人员需要在相互作用强度、门操作速度、激光控制精度和量子态寿命之间进行权衡。
+8f:["$","$L10",null,{"as":"aside","marginTop":"48","children":[["$","span",null,{"className":"Personal_eyebrow__ZKe3q mb-16","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"KEEP READING"}],[["$","$Lf6","deep-learning-notes",{"entry":{"slug":"deep-learning-notes","title":"深度学习学习笔记","date":"2026-11-16","category":"技术","summary":"7 篇学习笔记，从机器学习基础、优化方法到循环神经网络、自注意力与 Transformer。","cover":"","sample":false,"sections":[{"title":"","text":""}],"sourceName":"深度学习学习笔记目录.md","markdownAssets":[],"markdown":"| 章节 | 学习内容 |\n| --- | --- |\n| [第 1 章：机器学习基础](/blog/deep-learning-01-machine-learning/) | 模型、损失函数、梯度下降、激活函数与神经网络 |\n| [第 2 章：实践方法论](/blog/deep-learning-02-methodology/) | 模型偏差、优化问题、过拟合、交叉验证与分布不匹配 |\n| [第 3 章：深度学习基础](/blog/deep-learning-03-fundamentals/) | 鞍点、动量、自适应学习率、分类损失与批量归一化 |\n| [第 4 章：卷积神经网络](/blog/deep-learning-04-cnn/) | 感受野、参数共享、卷积、汇聚与 AlphaGo 示例 |\n| [第 5 章：循环神经网络](/blog/deep-learning-05-rnn/) | RNN 架构、LSTM、梯度问题与序列到序列应用 |\n| [第 6 章：自注意力机制](/blog/deep-learning-06-self-attention/) | QKV、多头注意力、位置编码与 CNN、RNN 对比 |\n| [第 7 章：Transformer](/blog/deep-learning-07-transformer/) | 编码器、解码器、交叉注意力与序列训练技巧 |\n\n[查看 GitHub 版本](https://github.com/concorde-blade/ai-math-discussion/tree/main/notes/deep-learning)\n"}}],["$","$Lf6","neutral-atom-quantum-computation-notes1",{"entry":{"slug":"neutral-atom-quantum-computation-notes1","title":"Neutral Atom Quantum Computation notes1","date":"2026-10-11","category":"随笔","summary":"量子计算(quantum computation)，核心原理：利用量子力学中的叠加、纠缠和干涉来处理信息，通过预先设计的量子操作，让正确答案的概率增大，最后测量得到计算结果。","cover":"/images/uploads/c5feaffd-c835-4c18-9b77-062d9e4692ff.webp","sample":false,"sections":[{"title":"","text":""}],"markdown":"$f7","sourceName":"tweezer atom notes1.md","markdownAssets":[]}}]]]}]
 90:["$","span","span-0",{"className":"mtable","children":[["$","span","span-0",{"className":"col-align-c","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.45em"},"children":[["$","span","span-0",{"style":{"top":"-3.61em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":["$","span","span-0",{"className":"mord","children":"0"}]}]]}],["$","span","span-1",{"style":{"top":"-2.41em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":["$","span","span-0",{"className":"mord","children":"1"}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.95em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-1",{"className":"arraycolsep","style":{"width":"0.5em"}}],["$","span","span-2",{"className":"arraycolsep","style":{"width":"0.5em"}}],["$","span","span-3",{"className":"col-align-c","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.45em"},"children":[["$","span","span-0",{"style":{"top":"-3.61em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":["$","span","span-0",{"className":"mord","children":"1"}]}]]}],["$","span","span-1",{"style":{"top":"-2.41em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":["$","span","span-0",{"className":"mord","children":"0"}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.95em"},"children":["$","span","span-0",{}]}]}]]}]}]]}]
 91:["$","span","span-2",{"className":"mclose delimcenter","style":{"top":"0em"},"children":["$","span","span-0",{"className":"delimsizing size3","children":")"}]}]
 92:["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
