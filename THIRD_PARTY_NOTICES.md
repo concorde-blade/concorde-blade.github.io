@@ -15,6 +15,10 @@ Changes include a chronological journal, photography typography and layout, proj
 - Articles and photographs later supplied by a site owner retain their respective authors' rights; the template does not relicense them.
 - Personal website icon: “An astronaut standing on top of a red planet” by summertime flag, https://unsplash.com/illustrations/an-astronaut-standing-on-top-of-a-red-planet--cYcR3F_J7M . The source page identifies the illustration as Unsplash+ content. The site owner supplied the screenshot used here; it was cropped and resized with its existing watermarks retained. This third-party image is not relicensed under the project's code license.
 
+## Reading and interface typography
+
+- Chinese uses **Hiragino Sans GB W3/W6**, limited to Chinese characters and CJK punctuation. The regular GB face is mapped to CSS weight 400, and W6 to CSS weights 600–700. English uses **Optima Regular, Bold, Italic, and Bold Italic**, limited to Latin letters, digits and Western punctuation. Regular and Italic map to CSS 400; the original Bold and Bold Italic faces cover CSS 600–700. Both families are referenced only through CSS `local()` names; no system font files are included in this website. Devices without installed copies use PingFang and the existing fallback fonts. Navigation, controls and reading text share this language-specific pairing. Mathematical expressions retain KaTeX's own font families; code and poetry retain their dedicated font settings.
+
 ## Name origin illustrations
 
 - `public/images/about/ants-from-up-there.webp`: cover artwork of Black Country, New Road's *Ants From Up There* (2022), sourced from the official Ninja Tune release page, https://ninjatune.net/release/black-country-new-road/ants-from-up-there and https://ninjatune.net/images/releases/ants-from-up-there-main.jpg . Shown to identify and discuss the album; artwork rights remain with the respective rights holders and are not covered by this project's code license. Resized to 640 × 640 and encoded as WebP without cropping.
